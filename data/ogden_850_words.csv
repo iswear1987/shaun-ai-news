@@ -1,0 +1,771 @@
+word,category,description
+come,OPERATIONS,verb - to move toward a place
+get,OPERATIONS,verb - to obtain, receive
+give,OPERATIONS,verb - to transfer possession
+go,OPERATIONS,verb - to move away from a place
+keep,OPERATIONS,verb - to retain, hold
+let,OPERATIONS,verb - to allow
+make,OPERATIONS,verb - to create, produce
+put,OPERATIONS,verb - to place
+seem,OPERATIONS,verb - to appear
+take,OPERATIONS,verb - to carry, bring
+be,OPERATIONS,verb - to exist
+do,OPERATIONS,verb - to perform
+have,OPERATIONS,verb - to possess
+say,OPERATIONS,verb - to speak
+see,OPERATIONS,verb - to perceive visually
+send,OPERATIONS,verb - to dispatch
+may,OPERATIONS,verb - to permit, allow
+will,OPERATIONS,verb - to intend, future marker
+about,PREPOSITION,preposition - indicating location, time, topic
+across,PREPOSITION,preposition - from one side to the other
+after,PREPOSITION,preposition - indicating time, sequence
+against,PREPOSITION,preposition - indicating opposition
+among,PREPOSITION,preposition - indicating distribution
+at,PREPOSITION,preposition - indicating location, time
+before,PREPOSITION,preposition - indicating time, position
+between,PREPOSITION,preposition - indicating position in the middle
+by,PREPOSITION,preposition - indicating location, means, time
+down,PREPOSITION,preposition - indicating movement downward
+from,PREPOSITION,preposition - indicating origin, source
+in,PREPOSITION,preposition - indicating location, inclusion
+off,PREPOSITION,preposition - indicating separation
+on,PREPOSITION,preposition - indicating location, contact
+over,PREPOSITION,preposition - indicating position above
+through,PREPOSITION,preposition - indicating movement within
+to,PREPOSITION,preposition - indicating direction, destination
+under,PREPOSITION,preposition - indicating position below
+up,PREPOSITION,preposition - indicating movement upward
+with,PREPOSITION,preposition - indicating accompaniment, means
+as,PREPOSITION,preposition - indicating role, comparison
+for,PREPOSITION,preposition - indicating purpose, duration
+of,PREPOSITION,preposition - indicating possession, relation
+till,PREPOSITION,preposition - indicating time until
+than,CONJUNCTION,conjunction - used in comparisons
+a,ARTICLE,determiner - indefinite article (singular)
+the,ARTICLE,determiner - definite article
+all,DETERMINER,determiner - referring to the whole
+any,DETERMINER,determiner - one or some
+every,DETERMINER,determiner - each individual
+little,DETERMINER,determiner - small in amount
+much,DETERMINER,determiner - large in amount
+no,DETERMINER,determiner - not any
+other,DETERMINER,determiner - different, additional
+some,DETERMINER,determiner - an unspecified amount
+such,DETERMINER,determiner - of the type mentioned
+that,DETERMINER,determiner - indicating a specific one
+this,DETERMINER,determiner - indicating something close
+i,PRONOUN,pronoun - first person singular
+he,PRONOUN,pronoun - third person singular masculine
+you,PRONOUN,pronoun - second person
+who,PRONOUN,pronoun - asking about identity
+and,CONJUNCTION,conjunction - connecting words, phrases
+because,CONJUNCTION,conjunction - indicating reason
+but,CONJUNCTION,conjunction - indicating contrast
+or,CONJUNCTION,conjunction - indicating alternative
+if,CONJUNCTION,conjunction - indicating condition
+though,CONJUNCTION,conjunction - indicating concession
+while,CONJUNCTION,conjunction - indicating time, contrast
+how,ADVERB,adverb - asking about manner
+when,ADVERB,adverb - asking about time
+where,ADVERB,adverb - asking about place
+why,ADVERB,adverb - asking about reason
+again,ADVERB,adverb - once more
+ever,ADVERB,adverb - at any time
+far,ADVERB,adverb - indicating distance
+forward,ADVERB,adverb - indicating direction ahead
+here,ADVERB,adverb - indicating location near speaker
+near,ADVERB,adverb - indicating proximity
+now,ADVERB,adverb - at the present time
+out,ADVERB,adverb - indicating movement away
+still,ADVERB,adverb - continuing, yet
+then,ADVERB,adverb - indicating time, consequence
+there,ADVERB,adverb - indicating location away from speaker
+together,ADVERB,adverb - in unison
+well,ADVERB,adverb - indicating manner, condition
+almost,ADVERB,adverb - nearly
+enough,ADVERB,adverb - sufficient
+even,ADVERB,adverb - indicating emphasis
+not,ADVERB,adverb - negation
+only,ADVERB,adverb - exclusively
+quite,ADVERB,adverb - completely, fairly
+so,ADVERB,adverb - indicating degree, consequence
+very,ADVERB,adverb - indicating high degree
+tomorrow,ADVERB,adverb - the day after today
+yesterday,ADVERB,adverb - the day before today
+north,DIRECTION,adverb - toward the north
+south,DIRECTION,adverb - toward the south
+east,DIRECTION,adverb - toward the east
+west,DIRECTION,adverb - toward the west
+please,INTERJECTION,interjection - politeness marker
+yes,INTERJECTION,interjection - affirmation
+
+account,THINGS,thing - information about a person, event
+act,THINGS,thing - a thing done, action
+addition,THINGS,thing - the process of adding
+adjustment,THINGS,thing - a small change
+advertisement,THINGS,thing - a notice bringing something to public notice
+agreement,THINGS,thing - harmony in action, opinion
+air,THINGS,thing - the invisible gaseous substance
+amount,THINGS,thing - a quantity
+amusement,THINGS,thing - the state of finding something funny or interesting
+animal,THINGS,thing - a living being other than a human
+answer,THINGS,thing - a reply
+apparatus,THINGS,thing - a complex structure of parts
+approval,THINGS,thing - the action of approving
+argument,THINGS,thing - a discussion involving different opinions
+art,THINGS,thing - the expression of creative ability
+attack,THINGS,thing - a violent or forceful action
+attempt,THINGS,thing - an effort to achieve a goal
+attention,THINGS,thing - the act of noticing
+attraction,THINGS,thing - the force that draws objects together
+authority,THINGS,thing - the power to give orders
+back,THINGS,thing - the rear part of the human body
+balance,THINGS,thing - a state of equilibrium
+base,THINGS,thing - the bottom part of something
+behavior,THINGS,thing - the way one acts
+belief,THINGS,thing - an acceptance that something exists
+birth,THINGS,thing - the beginning of life
+bit,THINGS,thing - a small piece
+bite,THINGS,thing - a small piece of food
+blood,THINGS,thing - the red liquid in the body
+blow,THINGS,thing - a strike
+body,THINGS,thing - the physical structure of a person
+brass,THINGS,thing - a yellow metal alloy
+bread,THINGS,thing - food made of flour
+breath,THINGS,thing - the air in the lungs
+brother,THINGS,thing - a male sibling
+building,THINGS,thing - a structure with a roof
+burn,THINGS,thing - an injury caused by heat
+burst,THINGS,thing - a sudden break
+business,THINGS,thing - commerce, trade
+butter,THINGS,thing - a yellow dairy product
+canvas,THINGS,thing - a strong cloth
+care,THINGS,thing - attention, concern
+cause,THINGS,thing - something that produces an effect
+chalk,THINGS,thing - a soft white limestone
+chance,THINGS,thing - probability, opportunity
+change,THINGS,thing - the act of making different
+cloth,THINGS,thing - woven or felted fabric
+coal,THINGS,thing - a black mineral fuel
+color,THINGS,thing - the property of objects producing different appearances
+comfort,THINGS,thing - ease, relief
+committee,THINGS,thing - a group appointed for a function
+company,THINGS,thing - a business organization
+comparison,THINGS,thing - the act of comparing
+competition,THINGS,thing - the activity of competing
+condition,THINGS,thing - a state of affairs
+connection,THINGS,thing - the state of being connected
+control,THINGS,thing - the power to direct
+cook,THINGS,thing - a person who prepares food
+copper,THINGS,thing - a reddish-brown metal
+copy,THINGS,thing - a thing made to be identical to another
+cork,THINGS,thing - a light porous material
+cotton,THINGS,thing - a soft fiber used in textiles
+cough,THINGS,thing - a sudden expulsion of air
+country,THINGS,thing - a nation
+cover,THINGS,thing - a thing serving to protect
+crack,THINGS,thing - a narrow opening
+credit,THINGS,THINGS,thing - trust, confidence
+crime,THINGS,thing - an illegal act
+crush,THINGS,thing - the act of crushing
+cry,THINGS,thing - a burst of sound
+current,THINGS,thing - a flow of water or air
+curve,THINGS,thing - a line that is not straight
+damage,THINGS,THINGS,thing - physical harm
+danger,THINGS,thing - the possibility of harm
+darkness,THINGS,thing - absence of light
+date,THINGS,thing - a point in time
+day,THINGS,thing - the period of daylight
+death,THINGS,thing - the end of life
+debt,THINGS,thing - something that is owed
+decision,THINGS,thing - a conclusion, resolution
+degree,THINGS,thing - a level of quality
+design,THINGS,thing - a plan
+desire,THINGS,thing - a feeling of wanting
+destruction,THINGS,thing - the act of destroying
+detail,THINGS,thing - an individual circumstance
+development,THINGS,thing - the process of developing
+direction,THINGS,thing - guidance
+discovery,THINGS,thing - the act of discovering
+discussion,THINGS,thing - conversation involving arguments
+disease,THINGS,thing - a condition impairing health
+disgust,THINGS,thing - strong disapproval
+distance,THINGS,thing - the space between points
+distribution,THINGS,thing - the action of distributing
+division,THINGS,thing - the act of dividing
+doubt,THINGS,thing - uncertainty
+drink,THINGS,thing - a liquid for drinking
+driving,THINGS,thing - the action of controlling a vehicle
+dust,THINGS,thing - fine particles
+earth,THINGS,thing - the planet we live on
+edge,THINGS,thing - the border of something
+education,THINGS,thing - the process of teaching
+effect,THINGS,thing - a result
+end,THINGS,thing - the final part
+error,THINGS,thing - a mistake
+event,THINGS,thing - a happening
+example,THINGS,thing - a model for imitation
+exchange,THINGS,thing - the act of exchanging
+existence,THINGS,thing - the state of existing
+expansion,THINGS,thing - the act of expanding
+experience,THINGS,thing - practical contact with facts
+expert,THINGS,thing - a person with special knowledge
+fact,THINGS,thing - something that is true
+fall,THINGS,thing - the act of falling
+family,THINGS,thing - a group of related people
+father,THINGS,thing - a male parent
+fear,THINGS,thing - an unpleasant emotion
+feeling,THINGS,thing - a state of mind
+fiction,THINGS,thing - invented stories
+field,THINGS,thing - an area of open land
+fight,THINGS,thing - a violent confrontation
+fire,THINGS,thing - combustion
+flame,THINGS,thing - a hot glowing vapor
+flight,THINGS,thing - the action of flying
+flower,THINGS,thing - the seed-bearing part of a plant
+fold,THINGS,thing - a double layer of material
+food,THINGS,thing - nourishment
+force,THINGS,thing - strength, power
+form,THINGS,thing - the shape of something
+friend,THINGS,thing - a person you know well
+front,THINGS,thing - the forward part
+fruit,THINGS,thing - the sweet product of a plant
+glass,THINGS,thing - a transparent material
+gold,THINGS,thing - a yellow precious metal
+government,THINGS,thing - the group controlling a country
+grain,THINGS,thing - a small hard seed
+grass,THINGS,thing - green vegetation
+grip,THINGS,thing - a tight hold
+group,THINGS,thing - a number of people together
+growth,THINGS,thing - the process of growing
+guide,THINGS,thing - a person who leads
+harbor,THINGS,THING,thing - a place where ships dock
+harmony,THINGS,thing - agreement in feeling
+hate,THINGS,thing - strong dislike
+hearing,THINGS,thing - the sense of sound
+heat,THINGS,thing - thermal energy
+help,THINGS,thing - assistance
+history,THINGS,thing - the study of past events
+hole,THINGS,thing - an opening
+hope,THINGS,thing - a desire for something
+hour,THINGS,thing - a period of 60 minutes
+humor,THINGS,thing - the quality of being funny
+ice,THINGS,thing - frozen water
+idea,THINGS,thing - a plan, suggestion
+impulse,THINGS,thing - a sudden desire
+increase,THINGS,thing - the process of becoming larger
+industry,THINGS,thing - economic production
+insect,THINGS,thing - a small crawling creature
+instruction,THINGS,thing - detailed information
+interest,THINGS,thing - the feeling of wanting to know
+inventory,THINGS,thing - a complete list of items
+iron,THINGS,thing - a strong gray metal
+issue,THINGS,thing - a point for discussion
+jewel,THINGS,thing - a precious stone
+joy,THINGS,thing - great happiness
+judge,THINGS,THING,thing - a public official
+justice,THINGS,THING,thing - the quality of being just
+knowledge,THINGS,THING,thing - familiarity, awareness
+labor,THINGS,THING,thing - work requiring effort
+land,THINGS,THING,thing - the solid part of the earth's surface
+language,THINGS,THING,thing - a system of communication
+law,THINGS,THING,thing - the system of rules
+lead,THINGS,THING,thing - a heavy blue-gray metal
+letter,THINGS,THING,thing - a written message
+life,THINGS,THING,thing - the period between birth and death
+limit,THINGS,THING,thing - a point beyond which something cannot go
+list,THINGS,THING,thing - a number of items written together
+love,THINGS,THING,thing - deep affection
+machine,THINGS,THING,thing - a device using power
+manager,THINGS,THING,thing - a person who manages
+map,THINGS,THING,thing - a drawing showing an area
+matter,THINGS,THING,thing - substance
+menu,THINGS,THING,thing - a list of dishes
+metal,THINGS,THING,thing - a hard shiny substance
+money,THINGS,THING,thing - a medium of exchange
+month,THINGS,THING,thing - a period of 30 days
+morning,THINGS,THING,thing - the period from midnight to noon
+mountain,THINGS,THING,thing - a large natural hill
+movement,THINGS,THING,thing - the act of moving
+music,THINGS,THING,thing - arranged sound
+name,THINGS,THING,thing - a word identifying a person
+nation,THINGS,THING,thing - a large body of people
+number,THINGS,THING,thing - a figure representing quantity
+object,THINGS,THING,thing - a material thing
+operation,THINGS,THING,thing - the act of operating
+order,THINGS,THING,thing - a command
+organ,THINGS,THING,thing - a body part
+organization,THINGS,THING,thing - the action of organizing
+origin,THINGS,THING,thing - the beginning
+owner,THINGS,THING,thing - a person who owns
+page,THINGS,THING,thing - one side of a sheet
+paint,THINGS,THING,thing - a colored substance
+paper,THINGS,THING,thing - a thin material for writing
+part,THINGS,THING,thing - a piece of something
+passage,THINGS,THING,thing - a section of a book
+path,THINGS,THING,thing - a way or track
+peace,THINGS,THING,thing - freedom from disturbance
+people,THINGS,THING,thing - human beings collectively
+person,THINGS,THING,thing - a human being
+photo,THINGS,THING,thing - a picture taken by camera
+picture,THINGS,THING,thing - a visual representation
+plant,THINGS,THING,thing - a living organism producing its own food
+play,THINGS,THING,thing - a dramatic work
+player,THINGS,THING,thing - a person who plays
+point,THINGS,THING,thing - a sharp end
+power,THINGS,THING,thing - ability to do something
+praise,THINGS,THING,thing - expression of approval
+price,THINGS,THING,thing - the amount expected for something
+prince,THINGS,THING,thing - the son of a king
+prison,THINGS,THING,thing - a place of confinement
+problem,THINGS,THING,thing - a question to be solved
+process,THINGS,THING,thing - a series of actions
+program,THINGS,THING,thing - a plan of action
+promise,THINGS,THING,thing - a declaration of assurance
+proof,THINGS,THING,thing - evidence establishing truth
+public,THINGS,THING,thing - people in general
+purpose,THINGS,THING,thing - the reason for which something is done
+quality,THINGS,THING,thing - a characteristic
+question,THINGS,THING,thing - a sentence asking for information
+queue,THINGS,THING,thing - a line of people
+quote,THINGS,THING,thing - words taken from a text
+race,THINGS,THING,thing - a competition of speed
+rail,THINGS,THING,thing - a horizontal bar
+rain,THINGS,THING,thing - water falling from clouds
+read,THINGS,THING,thing - to look at and understand writing
+reading,THINGS,THING,thing - the action of reading
+reason,THINGS,THING,thing - a cause, explanation
+record,THINGS,THING,thing - a thing that is recorded
+rest,THINGS,THING,thing - a period of relaxation
+reward,THINGS,THING,thing - something given in recognition
+rhythm,THINGS,THING,thing - a strong regular repeated pattern
+rice,THINGS,THING,thing - a cereal grain
+river,THINGS,THING,thing - a large natural stream
+road,THINGS,THING,thing - a wide way for vehicles
+roll,THINGS,THING,thing - a cylindrical piece
+room,THINGS,THING,thing - a part of a building
+rub,THINGS,THING,thing - friction
+rule,THINGS,THING,thing - a regulation
+run,THINGS,THING,thing - the act of running
+salt,THINGS,THING,thing - a white crystalline substance
+sand,THINGS,THING,thing - fine grains of rock
+scale,THINGS,THING,thing - a device for weighing
+science,THINGS,THING,thing - systematized knowledge
+sea,THINGS,THING,thing - the body of salt water covering most of the earth
+seat,THINGS,THING,thing - something to sit on
+secretary,THINGS,THING,thing - an official keeper of records
+selection,THINGS,THING,thing - the action of selecting
+self,THINGS,THING,thing - a person's essential being
+sense,THINGS,THING,thing - a faculty of perception
+servant,THINGS,THING,thing - a person employed to perform domestic duties
+sex,THINGS,THING,thing - the division between male and female
+shade,THINGS,THING,thing - darkness caused by blocking light
+shake,THINGS,THING,thing - a rapid movement back and forth
+shame,THINGS,THING,thing - a painful feeling of humiliation
+shock,THINGS,THING,thing - a violent disturbance
+side,THINGS,THING,thing - a surface that is not top or bottom
+sign,THINGS,THING,thing - an object displaying information
+silk,THINGS,THING,thing - a fine strong shining fiber
+silver,THINGS,THING,thing - a bright white precious metal
+sister,THINGS,THING,thing - a female sibling
+size,THINGS,THING,thing - the relative magnitude of something
+sky,THINGS,THING,thing - the space above the earth
+sleep,THINGS,THING,thing - a condition of body and mind
+slip,THINGS,THING,thing - a slight accident
+slope,THINGS,THING,thing - a surface with one end higher than the other
+smash,THINGS,THING,thing - the act of breaking violently
+smell,THINGS,THING,thing - a sense of detecting odors
+smile,THINGS,THING,thing - a facial expression of pleasure
+smoke,THINGS,THING,thing - a gas and particles from burning
+sneeze,THINGS,THING,thing - a sudden involuntary explosion of air
+snow,THINGS,THING,thing - frozen water particles
+soap,THINGS,THING,thing - a cleansing substance
+society,THINGS,THING,thing - a group of people living together
+son,THINGS,THING,thing - a male child
+song,THINGS,THING,thing - a short poem set to music
+sort,THINGS,THING,thing - a kind or class
+sound,THINGS,THING,thing - vibrations perceived by the ear
+soup,THINGS,THING,thing - liquid food
+space,THINGS,THING,thing - the area beyond the earth's atmosphere
+stage,THINGS,THING,thing - a period in a process
+start,THINGS,THING,thing - the beginning
+statement,THINGS,THING,thing - a declaration
+steam,THINGS,THING,thing - water vapor
+steel,THINGS,THING,thing - a hard shiny metal
+step,THINGS,THING,thing - a footfall
+stitch,THINGS,THING,thing - a loop of thread
+stone,THINGS,THING,thing - a piece of rock
+stop,THINGS,THING,thing - the act of ceasing
+story,THINGS,THING,thing - an account of events
+stretch,THINGS,THING,thing - the act of extending
+structure,THINGS,THING,thing - the arrangement of parts
+substance,THINGS,THING,thing - the material of which something consists
+sugar,THINGS,THING,thing - a sweet crystalline substance
+suggestion,THINGS,THING,thing - something proposed
+summer,THINGS,THING,thing - the warmest season
+support,THINGS,THING,thing - assistance
+surprise,THINGS,THING,thing - something unexpected
+swim,THINGS,THING,thing - the act of swimming
+system,THINGS,THING,thing - a set of principles
+talk,THINGS,THING,thing - conversation
+taste,THINGS,THING,thing - the sense of detecting flavors
+tax,THINGS,THING,thing - a sum of money paid to government
+teaching,THINGS,THING,thing - the action of instructing
+tendency,THINGS,THING,thing - the disposition to act in a certain way
+test,THINGS,THING,thing - a procedure to determine quality
+theory,THINGS,THING,thing - a system of ideas
+thing,THINGS,THING,thing - an object
+thought,THINGS,THING,thing - a product of thinking
+thunder,THINGS,THING,thing - a loud explosive sound
+time,THINGS,THING,thing - the indefinite progress
+tin,THINGS,THING,thing - a silvery-white metal
+top,THINGS,THING,thing - the highest part
+touch,THINGS,THING,thing - the sense of perceiving contact
+trade,THINGS,THING,thing - the action of buying and selling
+transport,THINGS,THING,thing - the action of conveying
+trick,THINGS,THING,thing - an act of deception
+trouble,THINGS,THING,thing - difficulty
+turn,THINGS,THING,thing - a change in direction
+twist,THINGS,THING,thing - the act of twisting
+unit,THINGS,THING,thing - an individual thing viewed with others
+use,THINGS,THING,thing - the action of using
+value,THINGS,THING,thing - the importance of something
+verse,THINGS,THING,thing - a line of poetry
+vessel,THINGS,THING,thing - a ship or large boat
+view,THINGS,THING,thing - the act of seeing
+voice,THINGS,THING,thing - sound produced by the mouth
+walk,THINGS,THING,thing - the act of walking
+war,THINGS,THING,thing - a state of armed conflict
+wash,THINGS,THING,thing - the act of cleaning with water
+waste,THINGS,THING,thing - the use of resources inefficiently
+water,THINGS,THING,thing - a colorless liquid
+wave,THINGS,THING,thing - a moving ridge on water
+wax,THINGS,THING,thing - a solid substance from bees
+way,THINGS,THING,thing - a method of doing something
+weather,THINGS,THING,thing - the condition of the atmosphere
+week,THINGS,THING,thing - a period of 7 days
+weight,THINGS,THING,thing - the heaviness of something
+wind,THINGS,THING,thing - moving air
+wine,THINGS,THING,thing - a fermented drink
+winter,THINGS,THING,thing - the coldest season
+woman,THINGS,THING,thing - an adult female
+wood,THINGS,THING,thing - the hard material from trees
+wool,THINGS,THING,thing - the hairy fiber from sheep
+word,THINGS,THING,thing - a single distinct element of speech
+work,THINGS,THING,thing - activity requiring effort
+wound,THINGS,THING,thing - an injury
+writing,THINGS,THING,thing - the action of forming letters
+year,THINGS,THING,thing - a period of 365 days
+
+angle,THINGS_PICTURABLE,thing - a figure formed by two lines
+ant,THINGS_PICTURABLE,thing - a small insect
+apple,THINGS_PICTURABLE,thing - a round fruit
+arch,THINGS_PICTURABLE,thing - a curved structure
+arm,THINGS_PICTURABLE,thing - the upper limb
+army,THINGS_PICTURABLE,thing - a military force
+ash,THINGS_PICTURABLE,thing - gray powdery residue
+axe,THINGS_PICTURABLE,thing - a tool for cutting
+baby,THINGS_PICTURABLE,thing - a very young child
+back,THINGS_PICTURABLE,thing - the rear part of the body
+bag,THINGS_PICTURABLE,thing - a container
+ball,THINGS_PICTURABLE,thing - a spherical object
+banana,THINGS_PICTURABLE,thing - a long curved fruit
+bear,THINGS_PICTURABLE,thing - a large strong animal
+bed,THINGS_PICTURABLE,thing - a piece of furniture for sleeping
+bee,THINGS_PICTURABLE,thing - a flying insect
+beef,THINGS_PICTURABLE,thing - meat from cattle
+beetle,THINGS_PICTURABLE,thing - a hard-shelled insect
+bell,THINGS_PICTURABLE,thing - a hollow metal object for ringing
+bench,THINGS_PICTURABLE,thing - a long seat
+bird,THINGS_PICTURABLE,thing - a feathered animal
+boat,THINGS_PICTURABLE,thing - a vessel for water
+book,THINGS_PICTURABLE,thing - a written or printed work
+boot,THINGS_PICTURABLE,thing - a cover for the foot
+bottle,THINGS_PICTURABLE,thing - a container with a narrow neck
+box,THINGS_PICTURABLE,thing - a container with flat sides
+boy,THINGS_PICTURABLE,thing - a male child
+brain,THINGS_PICTURABLE,thing - the organ of thought
+branch,THINGS_PICTURABLE,thing - a part of a tree
+bride,THINGS_PICTURABLE,thing - a woman on her wedding day
+broom,THINGS_PICTURABLE,thing - a cleaning tool
+brush,THINGS_PICTURABLE,thing - a tool for cleaning
+bush,THINGS_PICTURABLE,thing - a shrub
+bus,THINGS_PICTURABLE,thing - a large motor vehicle
+cage,THINGS_PICTURABLE,thing - a structure for confining animals
+camel,THINGS_PICTURABLE,thing - a large desert animal
+candle,THINGS_PICTURABLE,thing - a stick of wax with a wick
+cannon,THINGS_PICTURABLE,thing - a large heavy gun
+car,THINGS_PICTURABLE,thing - a motor vehicle
+card,THINGS_PICTURABLE,thing - a piece of stiff paper
+cat,THINGS_PICTURABLE,thing - a small domestic animal
+chain,THINGS_PICTURABLE,thing - a series of connected rings
+chair,THINGS_PICTURABLE,thing - a seat with a back
+chamber,THINGS_PICTURABLE,thing - a room
+chicken,THINGS_PICTURABLE,thing - a domestic fowl
+child,THINGS_PICTURABLE,thing - a young human being
+church,THINGS_PICTURABLE,thing - a building for worship
+cigar,THINGS_PICTURABLE,thing - rolled tobacco
+city,THINGS_PICTURABLE,thing - a large town
+class,THINGS_PICTURABLE,thing - a group of students
+clock,THINGS_PICTURABLE,thing - a device for measuring time
+coat,THINGS_PICTURABLE,thing - outer clothing
+coin,THINGS_PICTURABLE,thing - a piece of metal money
+comb,THINGS_PICTURABLE,thing - a grooming tool
+comet,THINGS_PICTURABLE,thing - an icy celestial body
+cord,THINGS_PICTURABLE,thing - a thin strong string
+corner,THINGS_PICTURABLE,thing - the point where two lines meet
+cotton,THINGS_PICTURABLE,thing - a soft white fiber
+cow,THINGS_PICTURABLE,thing - a large domestic animal
+cradle,THINGS_PICTURABLE,thing - a bed for a baby
+cup,THINGS_PICTURABLE,thing - a small bowl for drinking
+curve,THINGS_PICTURABLE,thing - a bending line
+cushion,THINGS_PICTURABLE,thing - a soft bag of fabric
+deer,THINGS_PICTURABLE,thing - a grazing animal
+desk,THINGS_PICTURABLE,thing - a table for working
+diamond,THINGS_PICTURABLE,thing - a precious clear stone
+dinosaur,THINGS_PICTURABLE,thing - a prehistoric reptile
+dog,THINGS_PICTURABLE,thing - a domestic animal
+dollar,THINGS_PICTURABLE,thing - a unit of currency
+drum,THINGS_PICTURABLE,thing - a musical instrument
+duck,THINGS_PICTURABLE,thing - a water bird
+ear,THINGS_PICTURABLE,thing - the organ of hearing
+earthquake,THINGS_PICTURABLE,thing - shaking of the ground
+egg,THINGS_PICTURABLE,thing - an oval object laid by a bird
+engine,THINGS_PICTURABLE,thing - a machine producing power
+ink,THINGS_PICTURABLE,thing - a colored fluid for writing
+key,THINGS_PICTURABLE,thing - a device for locking
+knee,THINGS_PICTURABLE,thing - the joint in the middle of the leg
+knife,THINGS_PICTURABLE,thing - a tool with a blade
+lamp,THINGS_PICTURABLE,thing - a device giving light
+leaf,THINGS_PICTURABLE,thing - a green flat part of a plant
+leg,THINGS_PICTURABLE,thing - the lower limb
+letter,THINGS_PICTURABLE,thing - a single character of writing
+lion,THINGS_PICTURABLE,thing - a large wild cat
+lock,THINGS_PICTURABLE,thing - a device for securing a door
+map,THINGS_PICTURABLE,thing - a diagram representing an area
+match,THINGS_PICTURABLE,thing - a small stick for lighting fire
+mouse,THINGS_PICTURABLE,thing - a small rodent
+nose,THINGS_PICTURABLE,thing - the organ of smell
+pen,THINGS_PICTURABLE,thing - a tool for writing
+pencil,THINGS_PICTURABLE,thing - a writing instrument
+phone,THINGS_PICTURABLE,thing - a device for communication
+pig,THINGS_PICTURABLE,thing - a domestic animal
+picture,THINGS_PICTURABLE,thing - a painting or drawing
+pillow,THINGS_PICTURABLE,thing - a cushion for the head
+pipe,THINGS_PICTURABLE,thing - a tube for conveying fluid
+plane,THINGS_PICTURABLE,thing - a flat surface
+plant,THINGS_PICTURABLE,thing - a living organism
+plate,THINGS_PICTURABLE,thing - a flat dish
+pot,THINGS_PICTURABLE,thing - a container for cooking
+piano,THINGS_PICTURABLE,thing - a musical instrument
+queen,THINGS_PICTURABLE,thing - a female monarch
+rat,THINGS_PICTURABLE,thing - a large rodent
+ring,THINGS_PICTURABLE,thing - a circular band
+robot,THINGS_PICTURABLE,thing - a machine capable of work
+rock,THINGS_PICTURABLE,thing - a solid mineral mass
+sail,THINGS_PICTURABLE,thing - a sheet of cloth catching wind
+school,THINGS_PICTURABLE,thing - a place of learning
+scissors,THINGS_PICTURABLE,thing - a cutting tool
+screw,THINGS_PICTURABLE,thing - a fastening device
+seed,THINGS_PICTURABLE,thing - a plant embryo
+sheep,THINGS_PICTURABLE,thing - a woolly animal
+shelf,THINGS_PICTURABLE,thing - a flat horizontal surface
+ship,THINGS_PICTURABLE,thing - a large vessel for water
+shirt,THINGS_PICTURABLE,thing - a garment for the upper body
+shoe,THINGS_PICTURABLE,thing - a cover for the foot
+skin,THINGS_PICTURABLE,thing - the outer covering of the body
+skirt,THINGS_PICTURABLE,thing - a garment hanging from the waist
+snake,THINGS_PICTURABLE,thing - a long legless reptile
+sock,THINGS_PICTURABLE,thing - a garment for the foot
+spade,THINGS_PICTURABLE,thing - a digging tool
+sponge,THINGS_PICTURABLE,thing - a porous material
+spoon,THINGS_PICTURABLE,thing - a eating utensil
+spring,THINGS_PICTURABLE,thing - a coil of metal
+square,THINGS_PICTURABLE,thing - a four-sided equal figure
+stamp,THINGS_PICTURABLE,thing - a small piece of paper
+star,THINGS_PICTURABLE,thing - a luminous celestial body
+station,THINGS_PICTURABLE,thing - a stopping place
+stem,THINGS_PICTURABLE,thing - the main part of a plant
+stick,THINGS_PICTURABLE,thing - a long thin piece of wood
+stocking,THINGS_PICTURABLE,thing - a garment for the foot and leg
+stomach,THINGS_PICTURABLE,thing - the organ of digestion
+store,THINGS_PICTURABLE,thing - a place of business
+street,THINGS_PICTURABLE,thing - a public road
+sun,THINGS_PICTURABLE,thing - the star around which the earth orbits
+table,THINGS_PICTURABLE,thing - a piece of furniture
+tail,THINGS_PICTURABLE,thing - the rear part of an animal
+thread,THINGS_PICTURABLE,thing - a thin strand of fiber
+throat,THINGS_PICTURABLE,thing - the front part of the neck
+thumb,THINGS_PICTURABLE,thing - the short thick finger
+ticket,THINGS_PICTURABLE,thing - a piece of paper for admission
+toe,THINGS_PICTURABLE,thing - a digit of the foot
+tongue,THINGS_PICTURABLE,thing - the organ of taste
+tooth,THINGS_PICTURABLE,thing - a hard bony structure
+town,THINGS_PICTURABLE,thing - a settlement larger than a village
+train,THINGS_PICTURABLE,thing - a series of connected vehicles
+tray,THINGS_PICTURABLE,thing - a flat plate for carrying things
+tree,THINGS_PICTURABLE,thing - a woody perennial plant
+trousers,THINGS_PICTURABLE,thing - a garment covering the legs
+umbrella,THINGS_PICTURABLE,thing - a portable canopy
+wall,THINGS_PICTURABLE,thing - a vertical structure
+watch,THINGS_PICTURABLE,thing - a timepiece
+wheel,THINGS_PICTURABLE,thing - a circular rotating structure
+whip,THINGS_PICTURABLE,thing - a flexible strip for striking
+whistle,THINGS_PICTURABLE,thing - a device producing a high pitch sound
+window,THINGS_PICTURABLE,thing - an opening in a wall
+wing,THINGS_PICTURABLE,thing - a limb for flying
+wire,THINGS_PICTURABLE,thing - a thin flexible metal thread
+worm,THINGS_PICTURABLE,thing - a long thin soft-bodied animal
+
+able,QUALITIES,quality - having the power or skill
+acid,QUALITIES,quality - sour in taste
+angry,QUALITIES,quality - feeling strong annoyance
+automatic,QUALITIES,quality - operating by itself
+beautiful,QUALITIES,quality - pleasing to the senses
+black,QUALITIES,quality - of the darkest color
+boiling,QUALITIES,quality - at the temperature of vaporization
+bright,QUALITIES,quality - giving out or reflecting light
+broken,QUALITIES,quality - damaged and not functional
+brown,QUALITIES,quality - a color between red and black
+cheap,QUALITIES,quality - low in price
+chemical,QUALITIES,quality - relating to chemistry
+chief,QUALITIES,quality - most important
+clean,QUALITIES,quality - free from dirt
+clear,QUALITIES,quality - easy to perceive
+common,QUALITIES,quality - occurring often
+complex,QUALITIES,quality - consisting of many parts
+conscious,QUALITIES,quality - aware of one's surroundings
+cut,QUALITIES,quality - having a hole made by cutting
+deep,QUALITIES,quality - extending far inward
+dependent,QUALITIES,quality - relying on another
+early,QUALITIES,quality - happening before the expected time
+elastic,QUALITIES,quality - able to return to shape
+electric,QUALITIES,quality - relating to electricity
+equal,QUALITIES,quality - of the same quantity
+fat,QUALITIES,quality - having much flesh
+fertile,QUALITIES,quality - able to produce abundant vegetation
+first,QUALITIES,quality - coming before all others
+fixed,QUALITIES,quality - firmly positioned
+flat,QUALITIES,quality - having a smooth level surface
+free,QUALITIES,quality - not under control of another
+frequent,QUALITIES,quality - occurring often
+full,QUALITIES,quality - containing as much as possible
+general,QUALITIES,quality - affecting most cases
+good,QUALITIES,quality - of high quality
+great,QUALITIES,quality - of an extent or intensity above average
+grey,QUALITIES,quality - a color between black and white
+hanging,QUALITIES,quality - suspended from above
+happy,QUALITIES,quality - feeling or showing pleasure
+hard,QUALITIES,quality - firm and solid
+healthy,QUALITIES,quality - in good condition
+high,QUALITIES,quality - extending far upward
+hollow,QUALITIES,quality - having a gap inside
+important,QUALITIES,quality - of great significance
+kind,QUALITIES,quality - having a friendly nature
+like,QUALITIES,quality - similar to
+living,QUALITIES,quality - alive
+long,QUALITIES,quality - measuring great distance
+male,QUALITIES,quality - relating to men
+married,QUALITIES,quality - joined in marriage
+material,QUALITIES,quality - relating to physical matter
+medical,QUALITIES,quality - relating to the science of medicine
+military,QUALITIES,quality - relating to armed forces
+natural,QUALITIES,quality - existing in nature
+necessary,QUALITIES,quality - required to be done
+new,QUALITIES,quality - not existing before
+normal,QUALITIES,quality - conforming to a standard
+open,QUALITIES,quality - not closed
+parallel,QUALITIES,quality - having the same distance throughout
+past,QUALITIES,quality - no longer existing
+physical,QUALITIES,quality - relating to the body
+political,QUALITIES,quality - relating to government
+poor,QUALITIES,quality - lacking money
+possible,QUALITIES,quality - able to be done
+present,QUALITIES,quality - occurring now
+private,QUALITIES,quality - belonging to a specific person
+probable,QUALITIES,quality - likely to happen
+quick,QUALITIES,quality - moving fast
+quiet,QUALITIES,quality - making little noise
+ready,QUALITIES,quality - fully prepared
+red,QUALITIES,quality - the color of blood
+regular,QUALITIES,quality - according to a pattern
+responsible,QUALITIES,quality - accountable
+right,QUALITIES,quality - correct
+round,QUALITIES,quality - shaped like a circle
+same,QUALITIES,quality - identical
+second,QUALITIES,quality - coming after the first
+separate,QUALITIES,quality - not joined
+serious,QUALITIES,quality - important, not playful
+sharp,QUALITIES,quality - having a fine edge
+smooth,QUALITIES,quality - having an even surface
+sticky,QUALITIES,quality - adhering to surfaces
+stiff,QUALITIES,quality - not bending easily
+straight,QUALITIES,quality - not curved
+strong,QUALITIES,quality - having great power
+sudden,QUALITIES,quality - happening quickly
+sweet,QUALITIES,quality - having a pleasant taste
+tall,QUALITIES,quality - measuring much distance upward
+thick,QUALITIES,quality - measuring much distance from one side to the other
+tight,QUALITIES,quality - fixed firmly in place
+tired,QUALITIES,quality - in need of sleep
+true,QUALITIES,quality - in accordance with fact
+violent,QUALITIES,quality - having great force
+waiting,QUALITIES,quality - staying until expected
+warm,QUALITIES,quality - having moderate heat
+wet,QUALITIES,quality - covered with water
+wide,QUALITIES,quality - measuring much distance from side to side
+wise,QUALITIES,quality - having experience and good judgment
+yellow,QUALITIES,quality - the color of lemons
+young,QUALITIES,quality - having lived for a short time
+
+awake,QUALITIES_OPP,quality - not sleeping
+bad,QUALITIES_OPP,quality - not good
+bent,QUALITIES_OPP,quality - curved out of shape
+bitter,QUALITIES_OPP,quality - unpleasant taste
+blue,QUALITIES_OPP,quality - the color of the sky
+certain,QUALITIES_OPP,quality - sure
+cold,QUALITIES_OPP,quality - having low temperature
+complete,QUALITIES_OPP,quality - having all parts
+cruel,QUALITIES_OPP,quality - causing pain
+dark,QUALITIES_OPP,quality - not bright
+dead,QUALITIES_OPP,quality - no longer living
+dear,QUALITIES_OPP,quality - loved
+delicate,QUALITIES_OPP,quality - easily broken
+different,QUALITIES_OPP,quality - not the same
+dirty,QUALITIES_OPP,quality - covered with dirt
+dry,QUALITIES_OPP,quality - without moisture
+false,QUALITIES_OPP,quality - not true
+feeble,QUALITIES_OPP,quality - weak
+female,QUALITIES_OPP,quality - relating to women
+foolish,QUALITIES_OPP,quality - lacking good sense
+future,QUALITIES_OPP,quality - not yet here
+green,QUALITIES_OPP,quality - the color of grass
+ill,QUALITIES_OPP,quality - not healthy
+last,QUALITIES_OPP,quality - coming after all others
+late,QUALITIES_OPP,quality - not early
+left,QUALITIES_OPP,quality - on the west side
+loose,QUALITIES_OPP,quality - not tight
+loud,QUALITIES_OPP,quality - producing much sound
+low,QUALITIES_OPP,quality - not high
+mixed,QUALITIES_OPP,quality - combined
+narrow,QUALITIES_OPP,quality - not wide
+old,QUALITIES_OPP,quality - having lived for many years
+opposite,QUALITIES_OPP,quality - directly facing
+public,QUALITIES_OPP,quality - not private
+rough,QUALITIES_OPP,quality - not smooth
+sad,QUALITIES_OPP,quality - unhappy
+safe,QUALITIES_OPP,quality - protected from harm
+secret,QUALITIES_OPP,quality - not known to others
+short,QUALITIES_OPP,quality - not long
+shut,QUALITIES_OPP,quality - closed
+simple,QUALITIES_OPP,quality - easy to understand
+slow,QUALITIES_OPP,quality - not fast
+small,QUALITIES_OPP,quality - not large
+soft,QUALITIES_OPP,quality - easy to shape
+solid,QUALITIES_OPP,quality - firm and stable
+special,QUALITIES_OPP,quality - not general
+strange,QUALITIES_OPP,quality - unusual
+thin,QUALITIES_OPP,quality - not thick
+white,QUALITIES_OPP,quality - the color of snow
+wrong,QUALITIES_OPP,quality - not correct

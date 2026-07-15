@@ -1,0 +1,4550 @@
+{
+"come": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "来",
+"en": "verb - to move toward a place"
+},
+"get": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "得到",
+"en": "verb - to obtain, receive"
+},
+"give": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "给",
+"en": "verb - to transfer possession"
+},
+"go": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "去",
+"en": "verb - to move away from a place"
+},
+"keep": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "保持",
+"en": "verb - to retain, hold"
+},
+"let": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "让",
+"en": "verb - to allow"
+},
+"make": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "做/制作",
+"en": "verb - to create, produce"
+},
+"put": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "放",
+"en": "verb - to place"
+},
+"seem": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "似乎",
+"en": "verb - to appear"
+},
+"take": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "拿/取",
+"en": "verb - to carry, bring"
+},
+"be": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "是/存在",
+"en": "verb - to exist"
+},
+"do": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "做",
+"en": "verb - to perform"
+},
+"have": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "有",
+"en": "verb - to possess"
+},
+"say": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "说",
+"en": "verb - to speak"
+},
+"see": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "看见",
+"en": "verb - to perceive visually"
+},
+"send": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "发送",
+"en": "verb - to dispatch"
+},
+"may": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "可以",
+"en": "verb - to permit, allow"
+},
+"will": {
+"pos": "动词",
+"pos_en": "verb",
+"zh": "将要",
+"en": "verb - to intend, future marker"
+},
+"about": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "关于",
+"en": "preposition - indicating location, time, topic"
+},
+"across": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "穿过",
+"en": "preposition - from one side to the other"
+},
+"after": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…之后",
+"en": "preposition - indicating time, sequence"
+},
+"against": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "反对/靠着",
+"en": "preposition - indicating opposition"
+},
+"among": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…之中",
+"en": "preposition - indicating distribution"
+},
+"at": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在",
+"en": "preposition - indicating location, time"
+},
+"before": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…之前",
+"en": "preposition - indicating time, position"
+},
+"between": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…之间",
+"en": "preposition - indicating position in the middle"
+},
+"by": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "通过/被",
+"en": "preposition - indicating location, means, time"
+},
+"down": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "向下",
+"en": "preposition - indicating movement downward"
+},
+"from": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "从",
+"en": "preposition - indicating origin, source"
+},
+"in": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…里",
+"en": "preposition - indicating location, inclusion"
+},
+"off": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "离开",
+"en": "preposition - indicating separation"
+},
+"on": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…上",
+"en": "preposition - indicating location, contact"
+},
+"over": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…上方",
+"en": "preposition - indicating position above"
+},
+"through": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "穿过",
+"en": "preposition - indicating movement within"
+},
+"to": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "到/向",
+"en": "preposition - indicating direction, destination"
+},
+"under": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "在…下面",
+"en": "preposition - indicating position below"
+},
+"up": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "向上",
+"en": "preposition - indicating movement upward"
+},
+"with": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "和/用",
+"en": "preposition - indicating accompaniment, means"
+},
+"as": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "作为",
+"en": "preposition - indicating role, comparison"
+},
+"for": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "为了",
+"en": "preposition - indicating purpose, duration"
+},
+"of": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "…的",
+"en": "preposition - indicating possession, relation"
+},
+"till": {
+"pos": "介词",
+"pos_en": "preposition",
+"zh": "直到",
+"en": "preposition - indicating time until"
+},
+"than": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "比",
+"en": "conjunction - used in comparisons"
+},
+"a": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "一个",
+"en": "determiner - indefinite article (singular)"
+},
+"the": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "这/那",
+"en": "determiner - definite article"
+},
+"all": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "全部",
+"en": "determiner - referring to the whole"
+},
+"any": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "任何",
+"en": "determiner - one or some"
+},
+"every": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "每个",
+"en": "determiner - each individual"
+},
+"little": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "少的",
+"en": "determiner - small in amount"
+},
+"much": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "多的",
+"en": "determiner - large in amount"
+},
+"no": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "没有",
+"en": "determiner - not any"
+},
+"other": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "其他",
+"en": "determiner - different, additional"
+},
+"some": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "一些",
+"en": "determiner - an unspecified amount"
+},
+"such": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "这样的",
+"en": "determiner - of the type mentioned"
+},
+"that": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "那",
+"en": "determiner - indicating a specific one"
+},
+"this": {
+"pos": "限定词",
+"pos_en": "determiner",
+"zh": "这",
+"en": "determiner - indicating something close"
+},
+"i": {
+"pos": "代词",
+"pos_en": "pronoun",
+"zh": "我",
+"en": "pronoun - first person singular"
+},
+"he": {
+"pos": "代词",
+"pos_en": "pronoun",
+"zh": "他",
+"en": "pronoun - third person singular masculine"
+},
+"you": {
+"pos": "代词",
+"pos_en": "pronoun",
+"zh": "你",
+"en": "pronoun - second person"
+},
+"who": {
+"pos": "代词",
+"pos_en": "pronoun",
+"zh": "谁",
+"en": "pronoun - asking about identity"
+},
+"and": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "和",
+"en": "conjunction - connecting words, phrases"
+},
+"because": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "因为",
+"en": "conjunction - indicating reason"
+},
+"but": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "但是",
+"en": "conjunction - indicating contrast"
+},
+"or": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "或者",
+"en": "conjunction - indicating alternative"
+},
+"if": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "如果",
+"en": "conjunction - indicating condition"
+},
+"though": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "虽然",
+"en": "conjunction - indicating concession"
+},
+"while": {
+"pos": "连词",
+"pos_en": "conjunction",
+"zh": "当…时",
+"en": "conjunction - indicating time, contrast"
+},
+"how": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "怎样",
+"en": "adverb - asking about manner"
+},
+"when": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "何时",
+"en": "adverb - asking about time"
+},
+"where": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "哪里",
+"en": "adverb - asking about place"
+},
+"why": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "为什么",
+"en": "adverb - asking about reason"
+},
+"again": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "再次",
+"en": "adverb - once more"
+},
+"ever": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "曾经",
+"en": "adverb - at any time"
+},
+"far": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "远",
+"en": "adverb - indicating distance"
+},
+"forward": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "向前",
+"en": "adverb - indicating direction ahead"
+},
+"here": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "这里",
+"en": "adverb - indicating location near speaker"
+},
+"near": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "近",
+"en": "adverb - indicating proximity"
+},
+"now": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "现在",
+"en": "adverb - at the present time"
+},
+"out": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "向外",
+"en": "adverb - indicating movement away"
+},
+"still": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "仍然",
+"en": "adverb - continuing, yet"
+},
+"then": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "然后",
+"en": "adverb - indicating time, consequence"
+},
+"there": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "那里",
+"en": "adverb - indicating location away from speaker"
+},
+"together": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "一起",
+"en": "adverb - in unison"
+},
+"well": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "好地/健康",
+"en": "adverb - indicating manner, condition"
+},
+"almost": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "几乎",
+"en": "adverb - nearly"
+},
+"enough": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "足够",
+"en": "adverb - sufficient"
+},
+"even": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "甚至",
+"en": "adverb - indicating emphasis"
+},
+"not": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "不",
+"en": "adverb - negation"
+},
+"only": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "仅仅",
+"en": "adverb - exclusively"
+},
+"quite": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "相当",
+"en": "adverb - completely, fairly"
+},
+"so": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "如此",
+"en": "adverb - indicating degree, consequence"
+},
+"very": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "非常",
+"en": "adverb - indicating high degree"
+},
+"tomorrow": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "明天",
+"en": "adverb - the day after today"
+},
+"yesterday": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "昨天",
+"en": "adverb - the day before today"
+},
+"north": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "北方",
+"en": "adverb - toward the north"
+},
+"south": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "南方",
+"en": "adverb - toward the south"
+},
+"east": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "东方",
+"en": "adverb - toward the east"
+},
+"west": {
+"pos": "副词",
+"pos_en": "adverb",
+"zh": "西方",
+"en": "adverb - toward the west"
+},
+"please": {
+"pos": "感叹词",
+"pos_en": "interjection",
+"zh": "请",
+"en": "interjection - politeness marker"
+},
+"yes": {
+"pos": "感叹词",
+"pos_en": "interjection",
+"zh": "是的",
+"en": "interjection - affirmation"
+},
+"account": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "账户/叙述",
+"en": "thing - information about a person, event"
+},
+"act": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "行为",
+"en": "thing - a thing done, action"
+},
+"addition": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "加法/添加",
+"en": "thing - the process of adding"
+},
+"adjustment": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "调整",
+"en": "thing - a small change"
+},
+"advertisement": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "广告",
+"en": "thing - a notice bringing something to public notice"
+},
+"agreement": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "协议",
+"en": "thing - harmony in action, opinion"
+},
+"air": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "空气",
+"en": "thing - the invisible gaseous substance"
+},
+"amount": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "数量",
+"en": "thing - a quantity"
+},
+"amusement": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "娱乐",
+"en": "thing - the state of finding something funny or interesting"
+},
+"animal": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "动物",
+"en": "thing - a living being other than a human"
+},
+"answer": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "回答",
+"en": "thing - a reply"
+},
+"apparatus": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "器械",
+"en": "thing - a complex structure of parts"
+},
+"approval": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "批准",
+"en": "thing - the action of approving"
+},
+"argument": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "争论",
+"en": "thing - a discussion involving different opinions"
+},
+"art": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "艺术",
+"en": "thing - the expression of creative ability"
+},
+"attack": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "攻击",
+"en": "thing - a violent or forceful action"
+},
+"attempt": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "尝试",
+"en": "thing - an effort to achieve a goal"
+},
+"attention": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "注意",
+"en": "thing - the act of noticing"
+},
+"attraction": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "吸引力",
+"en": "thing - the force that draws objects together"
+},
+"authority": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "权威",
+"en": "thing - the power to give orders"
+},
+"back": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "背部/后面",
+"en": "thing - the rear part of the body"
+},
+"balance": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "平衡",
+"en": "thing - a state of equilibrium"
+},
+"base": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "底部/基地",
+"en": "thing - the bottom part of something"
+},
+"behavior": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "行为",
+"en": "thing - the way one acts"
+},
+"belief": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "信念",
+"en": "thing - an acceptance that something exists"
+},
+"birth": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "出生",
+"en": "thing - the beginning of life"
+},
+"bit": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "一点",
+"en": "thing - a small piece"
+},
+"bite": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "咬/一口",
+"en": "thing - a small piece of food"
+},
+"blood": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "血",
+"en": "thing - the red liquid in the body"
+},
+"blow": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "打击",
+"en": "thing - a strike"
+},
+"body": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "身体",
+"en": "thing - the physical structure of a person"
+},
+"brass": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "黄铜",
+"en": "thing - a yellow metal alloy"
+},
+"bread": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "面包",
+"en": "thing - food made of flour"
+},
+"breath": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "呼吸",
+"en": "thing - the air in the lungs"
+},
+"brother": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "兄弟",
+"en": "thing - a male sibling"
+},
+"building": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "建筑物",
+"en": "thing - a structure with a roof"
+},
+"burn": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "烧伤",
+"en": "thing - an injury caused by heat"
+},
+"burst": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "爆发",
+"en": "thing - a sudden break"
+},
+"business": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "生意",
+"en": "thing - commerce, trade"
+},
+"butter": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "黄油",
+"en": "thing - a yellow dairy product"
+},
+"canvas": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "帆布",
+"en": "thing - a strong cloth"
+},
+"care": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "关心",
+"en": "thing - attention, concern"
+},
+"cause": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "原因",
+"en": "thing - something that produces an effect"
+},
+"chalk": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "粉笔",
+"en": "thing - a soft white limestone"
+},
+"chance": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "机会",
+"en": "thing - probability, opportunity"
+},
+"change": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "改变",
+"en": "thing - the act of making different"
+},
+"cloth": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "布",
+"en": "thing - woven or felted fabric"
+},
+"coal": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "煤",
+"en": "thing - a black mineral fuel"
+},
+"color": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "颜色",
+"en": "thing - the property of objects producing different appearances"
+},
+"comfort": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "舒适",
+"en": "thing - ease, relief"
+},
+"committee": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "委员会",
+"en": "thing - a group appointed for a function"
+},
+"company": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "公司",
+"en": "thing - a business organization"
+},
+"comparison": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "比较",
+"en": "thing - the act of comparing"
+},
+"competition": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "竞争",
+"en": "thing - the activity of competing"
+},
+"condition": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "条件",
+"en": "thing - a state of affairs"
+},
+"connection": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "连接",
+"en": "thing - the state of being connected"
+},
+"control": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "控制",
+"en": "thing - the power to direct"
+},
+"cook": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "厨师",
+"en": "thing - a person who prepares food"
+},
+"copper": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "铜",
+"en": "thing - a reddish-brown metal"
+},
+"copy": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "副本",
+"en": "thing - a thing made to be identical to another"
+},
+"cork": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "软木",
+"en": "thing - a light porous material"
+},
+"cotton": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "棉花",
+"en": "thing - a soft white fiber"
+},
+"cough": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "咳嗽",
+"en": "thing - a sudden expulsion of air"
+},
+"country": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "国家",
+"en": "thing - a nation"
+},
+"cover": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "盖子",
+"en": "thing - a thing serving to protect"
+},
+"crack": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "裂缝",
+"en": "thing - a narrow opening"
+},
+"credit": {
+"pos": "名词",
+"pos_en": "things,thing",
+"zh": "信用",
+"en": "THINGS,thing - trust, confidence"
+},
+"crime": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "犯罪",
+"en": "thing - an illegal act"
+},
+"crush": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "压碎",
+"en": "thing - the act of crushing"
+},
+"cry": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "哭/喊",
+"en": "thing - a burst of sound"
+},
+"current": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "水流/电流",
+"en": "thing - a flow of water or air"
+},
+"curve": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "曲线",
+"en": "thing - a bending line"
+},
+"damage": {
+"pos": "名词",
+"pos_en": "things,thing",
+"zh": "损害",
+"en": "THINGS,thing - physical harm"
+},
+"danger": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "危险",
+"en": "thing - the possibility of harm"
+},
+"darkness": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "黑暗",
+"en": "thing - absence of light"
+},
+"date": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "日期",
+"en": "thing - a point in time"
+},
+"day": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "白天/天",
+"en": "thing - the period of daylight"
+},
+"death": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "死亡",
+"en": "thing - the end of life"
+},
+"debt": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "债务",
+"en": "thing - something that is owed"
+},
+"decision": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "决定",
+"en": "thing - a conclusion, resolution"
+},
+"degree": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "程度",
+"en": "thing - a level of quality"
+},
+"design": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "设计",
+"en": "thing - a plan"
+},
+"desire": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "欲望",
+"en": "thing - a feeling of wanting"
+},
+"destruction": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "破坏",
+"en": "thing - the act of destroying"
+},
+"detail": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "细节",
+"en": "thing - an individual circumstance"
+},
+"development": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "发展",
+"en": "thing - the process of developing"
+},
+"direction": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "方向",
+"en": "thing - guidance"
+},
+"discovery": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "发现",
+"en": "thing - the act of discovering"
+},
+"discussion": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "讨论",
+"en": "thing - conversation involving arguments"
+},
+"disease": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "疾病",
+"en": "thing - a condition impairing health"
+},
+"disgust": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "厌恶",
+"en": "thing - strong disapproval"
+},
+"distance": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "距离",
+"en": "thing - the space between points"
+},
+"distribution": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "分配",
+"en": "thing - the action of distributing"
+},
+"division": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "分割",
+"en": "thing - the act of dividing"
+},
+"doubt": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "怀疑",
+"en": "thing - uncertainty"
+},
+"drink": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "饮料",
+"en": "thing - a liquid for drinking"
+},
+"driving": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "驾驶",
+"en": "thing - the action of controlling a vehicle"
+},
+"dust": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "灰尘",
+"en": "thing - fine particles"
+},
+"earth": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "地球",
+"en": "thing - the planet we live on"
+},
+"edge": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "边缘",
+"en": "thing - the border of something"
+},
+"education": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "教育",
+"en": "thing - the process of teaching"
+},
+"effect": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "效果",
+"en": "thing - a result"
+},
+"end": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "结束",
+"en": "thing - the final part"
+},
+"error": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "错误",
+"en": "thing - a mistake"
+},
+"event": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "事件",
+"en": "thing - a happening"
+},
+"example": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "例子",
+"en": "thing - a model for imitation"
+},
+"exchange": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "交换",
+"en": "thing - the act of exchanging"
+},
+"existence": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "存在",
+"en": "thing - the state of existing"
+},
+"expansion": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "扩张",
+"en": "thing - the act of expanding"
+},
+"experience": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "经验",
+"en": "thing - practical contact with facts"
+},
+"expert": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "专家",
+"en": "thing - a person with special knowledge"
+},
+"fact": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "事实",
+"en": "thing - something that is true"
+},
+"fall": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "落下",
+"en": "thing - the act of falling"
+},
+"family": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "家庭",
+"en": "thing - a group of related people"
+},
+"father": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "父亲",
+"en": "thing - a male parent"
+},
+"fear": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "害怕",
+"en": "thing - an unpleasant emotion"
+},
+"feeling": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "感觉",
+"en": "thing - a state of mind"
+},
+"fiction": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "小说",
+"en": "thing - invented stories"
+},
+"field": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "田野",
+"en": "thing - an area of open land"
+},
+"fight": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "战斗",
+"en": "thing - a violent confrontation"
+},
+"fire": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "火",
+"en": "thing - combustion"
+},
+"flame": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "火焰",
+"en": "thing - a hot glowing vapor"
+},
+"flight": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "飞行",
+"en": "thing - the action of flying"
+},
+"flower": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "花",
+"en": "thing - the seed-bearing part of a plant"
+},
+"fold": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "折叠",
+"en": "thing - a double layer of material"
+},
+"food": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "食物",
+"en": "thing - nourishment"
+},
+"force": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "力量",
+"en": "thing - strength, power"
+},
+"form": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "形状",
+"en": "thing - the shape of something"
+},
+"friend": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "朋友",
+"en": "thing - a person you know well"
+},
+"front": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "前面",
+"en": "thing - the forward part"
+},
+"fruit": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "水果",
+"en": "thing - the sweet product of a plant"
+},
+"glass": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "玻璃",
+"en": "thing - a transparent material"
+},
+"gold": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "金",
+"en": "thing - a yellow precious metal"
+},
+"government": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "政府",
+"en": "thing - the group controlling a country"
+},
+"grain": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "谷物",
+"en": "thing - a small hard seed"
+},
+"grass": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "草",
+"en": "thing - green vegetation"
+},
+"grip": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "紧握",
+"en": "thing - a tight hold"
+},
+"group": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "群体",
+"en": "thing - a number of people together"
+},
+"growth": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "生长",
+"en": "thing - the process of growing"
+},
+"guide": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "向导",
+"en": "thing - a person who leads"
+},
+"harbor": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "港口",
+"en": "THING,thing - a place where ships dock"
+},
+"harmony": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "和谐",
+"en": "thing - agreement in feeling"
+},
+"hate": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "恨",
+"en": "thing - strong dislike"
+},
+"hearing": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "听力",
+"en": "thing - the sense of sound"
+},
+"heat": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "热",
+"en": "thing - thermal energy"
+},
+"help": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "帮助",
+"en": "thing - assistance"
+},
+"history": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "历史",
+"en": "thing - the study of past events"
+},
+"hole": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "洞",
+"en": "thing - an opening"
+},
+"hope": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "希望",
+"en": "thing - a desire for something"
+},
+"hour": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "小时",
+"en": "thing - a period of 60 minutes"
+},
+"humor": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "幽默",
+"en": "thing - the quality of being funny"
+},
+"ice": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "冰",
+"en": "thing - frozen water"
+},
+"idea": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "想法",
+"en": "thing - a plan, suggestion"
+},
+"impulse": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "冲动",
+"en": "thing - a sudden desire"
+},
+"increase": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "增加",
+"en": "thing - the process of becoming larger"
+},
+"industry": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "工业",
+"en": "thing - economic production"
+},
+"insect": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "昆虫",
+"en": "thing - a small crawling creature"
+},
+"instruction": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "指示",
+"en": "thing - detailed information"
+},
+"interest": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "兴趣",
+"en": "thing - the feeling of wanting to know"
+},
+"inventory": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "清单",
+"en": "thing - a complete list of items"
+},
+"iron": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "铁",
+"en": "thing - a strong gray metal"
+},
+"issue": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "问题/发行",
+"en": "thing - a point for discussion"
+},
+"jewel": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "珠宝",
+"en": "thing - a precious stone"
+},
+"joy": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "喜悦",
+"en": "thing - great happiness"
+},
+"judge": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "法官",
+"en": "THING,thing - a public official"
+},
+"justice": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "正义",
+"en": "THING,thing - the quality of being just"
+},
+"knowledge": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "知识",
+"en": "THING,thing - familiarity, awareness"
+},
+"labor": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "劳动",
+"en": "THING,thing - work requiring effort"
+},
+"land": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "土地",
+"en": "THING,thing - the solid part of the earth's surface"
+},
+"language": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "语言",
+"en": "THING,thing - a system of communication"
+},
+"law": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "法律",
+"en": "THING,thing - the system of rules"
+},
+"lead": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "铅/带领",
+"en": "THING,thing - a heavy blue-gray metal"
+},
+"letter": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "字母/信",
+"en": "thing - a single character of writing"
+},
+"life": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "生命",
+"en": "THING,thing - the period between birth and death"
+},
+"limit": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "限制",
+"en": "THING,thing - a point beyond which something cannot go"
+},
+"list": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "列表",
+"en": "THING,thing - a number of items written together"
+},
+"love": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "爱",
+"en": "THING,thing - deep affection"
+},
+"machine": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "机器",
+"en": "THING,thing - a device using power"
+},
+"manager": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "经理",
+"en": "THING,thing - a person who manages"
+},
+"map": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "地图",
+"en": "thing - a diagram representing an area"
+},
+"matter": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "事情/物质",
+"en": "THING,thing - substance"
+},
+"menu": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "菜单",
+"en": "THING,thing - a list of dishes"
+},
+"metal": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "金属",
+"en": "THING,thing - a hard shiny substance"
+},
+"money": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "钱",
+"en": "THING,thing - a medium of exchange"
+},
+"month": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "月",
+"en": "THING,thing - a period of 30 days"
+},
+"morning": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "早晨",
+"en": "THING,thing - the period from midnight to noon"
+},
+"mountain": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "山",
+"en": "THING,thing - a large natural hill"
+},
+"movement": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "运动",
+"en": "THING,thing - the act of moving"
+},
+"music": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "音乐",
+"en": "THING,thing - arranged sound"
+},
+"name": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "名字",
+"en": "THING,thing - a word identifying a person"
+},
+"nation": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "国家",
+"en": "THING,thing - a large body of people"
+},
+"number": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "数字",
+"en": "THING,thing - a figure representing quantity"
+},
+"object": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "物体",
+"en": "THING,thing - a material thing"
+},
+"operation": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "手术/操作",
+"en": "THING,thing - the act of operating"
+},
+"order": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "顺序/命令",
+"en": "THING,thing - a command"
+},
+"organ": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "器官",
+"en": "THING,thing - a body part"
+},
+"organization": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "组织",
+"en": "THING,thing - the action of organizing"
+},
+"origin": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "起源",
+"en": "THING,thing - the beginning"
+},
+"owner": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "主人",
+"en": "THING,thing - a person who owns"
+},
+"page": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "页",
+"en": "THING,thing - one side of a sheet"
+},
+"paint": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "油漆",
+"en": "THING,thing - a colored substance"
+},
+"paper": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "纸",
+"en": "THING,thing - a thin material for writing"
+},
+"part": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "部分",
+"en": "THING,thing - a piece of something"
+},
+"passage": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "通道/段落",
+"en": "THING,thing - a section of a book"
+},
+"path": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "小路",
+"en": "THING,thing - a way or track"
+},
+"peace": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "和平",
+"en": "THING,thing - freedom from disturbance"
+},
+"people": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "人们",
+"en": "THING,thing - human beings collectively"
+},
+"person": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "人",
+"en": "THING,thing - a human being"
+},
+"photo": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "照片",
+"en": "THING,thing - a picture taken by camera"
+},
+"picture": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "图画",
+"en": "thing - a painting or drawing"
+},
+"plant": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "植物",
+"en": "thing - a living organism"
+},
+"play": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "玩耍",
+"en": "THING,thing - a dramatic work"
+},
+"player": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "玩家",
+"en": "THING,thing - a person who plays"
+},
+"point": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "点",
+"en": "THING,thing - a sharp end"
+},
+"power": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "力量",
+"en": "THING,thing - ability to do something"
+},
+"praise": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "赞美",
+"en": "THING,thing - expression of approval"
+},
+"price": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "价格",
+"en": "THING,thing - the amount expected for something"
+},
+"prince": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "王子",
+"en": "THING,thing - the son of a king"
+},
+"prison": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "监狱",
+"en": "THING,thing - a place of confinement"
+},
+"problem": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "问题",
+"en": "THING,thing - a question to be solved"
+},
+"process": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "过程",
+"en": "THING,thing - a series of actions"
+},
+"program": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "程序/节目",
+"en": "THING,thing - a plan of action"
+},
+"promise": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "承诺",
+"en": "THING,thing - a declaration of assurance"
+},
+"proof": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "证明",
+"en": "THING,thing - evidence establishing truth"
+},
+"public": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "公共的",
+"en": "quality - not private"
+},
+"purpose": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "目的",
+"en": "THING,thing - the reason for which something is done"
+},
+"quality": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "质量",
+"en": "THING,thing - a characteristic"
+},
+"question": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "问题",
+"en": "THING,thing - a sentence asking for information"
+},
+"queue": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "队列",
+"en": "THING,thing - a line of people"
+},
+"quote": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "引用",
+"en": "THING,thing - words taken from a text"
+},
+"race": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "比赛/种族",
+"en": "THING,thing - a competition of speed"
+},
+"rail": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "轨道",
+"en": "THING,thing - a horizontal bar"
+},
+"rain": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "雨",
+"en": "THING,thing - water falling from clouds"
+},
+"read": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "阅读",
+"en": "THING,thing - to look at and understand writing"
+},
+"reading": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "阅读",
+"en": "THING,thing - the action of reading"
+},
+"reason": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "理由",
+"en": "THING,thing - a cause, explanation"
+},
+"record": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "记录",
+"en": "THING,thing - a thing that is recorded"
+},
+"rest": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "休息",
+"en": "THING,thing - a period of relaxation"
+},
+"reward": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "奖励",
+"en": "THING,thing - something given in recognition"
+},
+"rhythm": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "节奏",
+"en": "THING,thing - a strong regular repeated pattern"
+},
+"rice": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "米饭",
+"en": "THING,thing - a cereal grain"
+},
+"river": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "河",
+"en": "THING,thing - a large natural stream"
+},
+"road": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "路",
+"en": "THING,thing - a wide way for vehicles"
+},
+"roll": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "卷",
+"en": "THING,thing - a cylindrical piece"
+},
+"room": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "房间",
+"en": "THING,thing - a part of a building"
+},
+"rub": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "擦",
+"en": "THING,thing - friction"
+},
+"rule": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "规则",
+"en": "THING,thing - a regulation"
+},
+"run": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "跑",
+"en": "THING,thing - the act of running"
+},
+"salt": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "盐",
+"en": "THING,thing - a white crystalline substance"
+},
+"sand": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "沙子",
+"en": "THING,thing - fine grains of rock"
+},
+"scale": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "秤/鳞",
+"en": "THING,thing - a device for weighing"
+},
+"science": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "科学",
+"en": "THING,thing - systematized knowledge"
+},
+"sea": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "海",
+"en": "THING,thing - the body of salt water covering most of the earth"
+},
+"seat": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "座位",
+"en": "THING,thing - something to sit on"
+},
+"secretary": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "秘书",
+"en": "THING,thing - an official keeper of records"
+},
+"selection": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "选择",
+"en": "THING,thing - the action of selecting"
+},
+"self": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "自我",
+"en": "THING,thing - a person's essential being"
+},
+"sense": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "感觉",
+"en": "THING,thing - a faculty of perception"
+},
+"servant": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "仆人",
+"en": "THING,thing - a person employed to perform domestic duties"
+},
+"sex": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "性别",
+"en": "THING,thing - the division between male and female"
+},
+"shade": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "荫",
+"en": "THING,thing - darkness caused by blocking light"
+},
+"shake": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "摇晃",
+"en": "THING,thing - a rapid movement back and forth"
+},
+"shame": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "羞耻",
+"en": "THING,thing - a painful feeling of humiliation"
+},
+"shock": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "震惊",
+"en": "THING,thing - a violent disturbance"
+},
+"side": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "侧面",
+"en": "THING,thing - a surface that is not top or bottom"
+},
+"sign": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "标志",
+"en": "THING,thing - an object displaying information"
+},
+"silk": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "丝绸",
+"en": "THING,thing - a fine strong shining fiber"
+},
+"silver": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "银",
+"en": "THING,thing - a bright white precious metal"
+},
+"sister": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "姐妹",
+"en": "THING,thing - a female sibling"
+},
+"size": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "尺寸",
+"en": "THING,thing - the relative magnitude of something"
+},
+"sky": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "天空",
+"en": "THING,thing - the space above the earth"
+},
+"sleep": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "睡眠",
+"en": "THING,thing - a condition of body and mind"
+},
+"slip": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "滑",
+"en": "THING,thing - a slight accident"
+},
+"slope": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "斜坡",
+"en": "THING,thing - a surface with one end higher than the other"
+},
+"smash": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "打碎",
+"en": "THING,thing - the act of breaking violently"
+},
+"smell": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "气味",
+"en": "THING,thing - a sense of detecting odors"
+},
+"smile": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "微笑",
+"en": "THING,thing - a facial expression of pleasure"
+},
+"smoke": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "烟",
+"en": "THING,thing - a gas and particles from burning"
+},
+"sneeze": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "打喷嚏",
+"en": "THING,thing - a sudden involuntary explosion of air"
+},
+"snow": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "雪",
+"en": "THING,thing - frozen water particles"
+},
+"soap": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "肥皂",
+"en": "THING,thing - a cleansing substance"
+},
+"society": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "社会",
+"en": "THING,thing - a group of people living together"
+},
+"son": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "儿子",
+"en": "THING,thing - a male child"
+},
+"song": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "歌",
+"en": "THING,thing - a short poem set to music"
+},
+"sort": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "种类",
+"en": "THING,thing - a kind or class"
+},
+"sound": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "声音",
+"en": "THING,thing - vibrations perceived by the ear"
+},
+"soup": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "汤",
+"en": "THING,thing - liquid food"
+},
+"space": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "空间",
+"en": "THING,thing - the area beyond the earth's atmosphere"
+},
+"stage": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "舞台",
+"en": "THING,thing - a period in a process"
+},
+"start": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "开始",
+"en": "THING,thing - the beginning"
+},
+"statement": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "声明",
+"en": "THING,thing - a declaration"
+},
+"steam": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "蒸汽",
+"en": "THING,thing - water vapor"
+},
+"steel": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "钢",
+"en": "THING,thing - a hard shiny metal"
+},
+"step": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "步骤",
+"en": "THING,thing - a footfall"
+},
+"stitch": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "缝针",
+"en": "THING,thing - a loop of thread"
+},
+"stone": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "石头",
+"en": "THING,thing - a piece of rock"
+},
+"stop": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "停止",
+"en": "THING,thing - the act of ceasing"
+},
+"story": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "故事",
+"en": "THING,thing - an account of events"
+},
+"stretch": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "伸展",
+"en": "THING,thing - the act of extending"
+},
+"structure": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "结构",
+"en": "THING,thing - the arrangement of parts"
+},
+"substance": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "物质",
+"en": "THING,thing - the material of which something consists"
+},
+"sugar": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "糖",
+"en": "THING,thing - a sweet crystalline substance"
+},
+"suggestion": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "建议",
+"en": "THING,thing - something proposed"
+},
+"summer": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "夏天",
+"en": "THING,thing - the warmest season"
+},
+"support": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "支持",
+"en": "THING,thing - assistance"
+},
+"surprise": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "惊喜",
+"en": "THING,thing - something unexpected"
+},
+"swim": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "游泳",
+"en": "THING,thing - the act of swimming"
+},
+"system": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "系统",
+"en": "THING,thing - a set of principles"
+},
+"talk": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "谈话",
+"en": "THING,thing - conversation"
+},
+"taste": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "味道",
+"en": "THING,thing - the sense of detecting flavors"
+},
+"tax": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "税",
+"en": "THING,thing - a sum of money paid to government"
+},
+"teaching": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "教学",
+"en": "THING,thing - the action of instructing"
+},
+"tendency": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "趋势",
+"en": "THING,thing - the disposition to act in a certain way"
+},
+"test": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "测试",
+"en": "THING,thing - a procedure to determine quality"
+},
+"theory": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "理论",
+"en": "THING,thing - a system of ideas"
+},
+"thing": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "东西",
+"en": "THING,thing - an object"
+},
+"thought": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "思想",
+"en": "THING,thing - a product of thinking"
+},
+"thunder": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "雷声",
+"en": "THING,thing - a loud explosive sound"
+},
+"time": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "时间",
+"en": "THING,thing - the indefinite progress"
+},
+"tin": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "锡",
+"en": "THING,thing - a silvery-white metal"
+},
+"top": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "顶部",
+"en": "THING,thing - the highest part"
+},
+"touch": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "触摸",
+"en": "THING,thing - the sense of perceiving contact"
+},
+"trade": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "贸易",
+"en": "THING,thing - the action of buying and selling"
+},
+"transport": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "运输",
+"en": "THING,thing - the action of conveying"
+},
+"trick": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "诡计",
+"en": "THING,thing - an act of deception"
+},
+"trouble": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "麻烦",
+"en": "THING,thing - difficulty"
+},
+"turn": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "转弯",
+"en": "THING,thing - a change in direction"
+},
+"twist": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "扭转",
+"en": "THING,thing - the act of twisting"
+},
+"unit": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "单位",
+"en": "THING,thing - an individual thing viewed with others"
+},
+"use": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "使用",
+"en": "THING,thing - the action of using"
+},
+"value": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "价值",
+"en": "THING,thing - the importance of something"
+},
+"verse": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "诗",
+"en": "THING,thing - a line of poetry"
+},
+"vessel": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "容器",
+"en": "THING,thing - a ship or large boat"
+},
+"view": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "视野",
+"en": "THING,thing - the act of seeing"
+},
+"voice": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "声音",
+"en": "THING,thing - sound produced by the mouth"
+},
+"walk": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "走",
+"en": "THING,thing - the act of walking"
+},
+"war": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "战争",
+"en": "THING,thing - a state of armed conflict"
+},
+"wash": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "洗",
+"en": "THING,thing - the act of cleaning with water"
+},
+"waste": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "废物",
+"en": "THING,thing - the use of resources inefficiently"
+},
+"water": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "水",
+"en": "THING,thing - a colorless liquid"
+},
+"wave": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "波浪",
+"en": "THING,thing - a moving ridge on water"
+},
+"wax": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "蜡",
+"en": "THING,thing - a solid substance from bees"
+},
+"way": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "方式/路",
+"en": "THING,thing - a method of doing something"
+},
+"weather": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "天气",
+"en": "THING,thing - the condition of the atmosphere"
+},
+"week": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "周",
+"en": "THING,thing - a period of 7 days"
+},
+"weight": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "重量",
+"en": "THING,thing - the heaviness of something"
+},
+"wind": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "风",
+"en": "THING,thing - moving air"
+},
+"wine": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "酒",
+"en": "THING,thing - a fermented drink"
+},
+"winter": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "冬天",
+"en": "THING,thing - the coldest season"
+},
+"woman": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "女人",
+"en": "THING,thing - an adult female"
+},
+"wood": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "木头",
+"en": "THING,thing - the hard material from trees"
+},
+"wool": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "羊毛",
+"en": "THING,thing - the hairy fiber from sheep"
+},
+"word": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "单词",
+"en": "THING,thing - a single distinct element of speech"
+},
+"work": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "工作",
+"en": "THING,thing - activity requiring effort"
+},
+"wound": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "伤口",
+"en": "THING,thing - an injury"
+},
+"writing": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "写作",
+"en": "THING,thing - the action of forming letters"
+},
+"year": {
+"pos": "名词",
+"pos_en": "thing,thing",
+"zh": "年",
+"en": "THING,thing - a period of 365 days"
+},
+"angle": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "角",
+"en": "thing - a figure formed by two lines"
+},
+"ant": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "蚂蚁",
+"en": "thing - a small insect"
+},
+"apple": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "苹果",
+"en": "thing - a round fruit"
+},
+"arch": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "拱门",
+"en": "thing - a curved structure"
+},
+"arm": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "手臂",
+"en": "thing - the upper limb"
+},
+"army": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "军队",
+"en": "thing - a military force"
+},
+"ash": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "灰",
+"en": "thing - gray powdery residue"
+},
+"axe": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "斧头",
+"en": "thing - a tool for cutting"
+},
+"baby": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "婴儿",
+"en": "thing - a very young child"
+},
+"bag": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "包",
+"en": "thing - a container"
+},
+"ball": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "球",
+"en": "thing - a spherical object"
+},
+"banana": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "香蕉",
+"en": "thing - a long curved fruit"
+},
+"bear": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "熊",
+"en": "thing - a large strong animal"
+},
+"bed": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "床",
+"en": "thing - a piece of furniture for sleeping"
+},
+"bee": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "蜜蜂",
+"en": "thing - a flying insect"
+},
+"beef": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "牛肉",
+"en": "thing - meat from cattle"
+},
+"beetle": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "甲虫",
+"en": "thing - a hard-shelled insect"
+},
+"bell": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "铃",
+"en": "thing - a hollow metal object for ringing"
+},
+"bench": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "长凳",
+"en": "thing - a long seat"
+},
+"bird": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鸟",
+"en": "thing - a feathered animal"
+},
+"boat": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "船",
+"en": "thing - a vessel for water"
+},
+"book": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "书",
+"en": "thing - a written or printed work"
+},
+"boot": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "靴子",
+"en": "thing - a cover for the foot"
+},
+"bottle": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "瓶子",
+"en": "thing - a container with a narrow neck"
+},
+"box": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "盒子",
+"en": "thing - a container with flat sides"
+},
+"boy": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "男孩",
+"en": "thing - a male child"
+},
+"brain": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "大脑",
+"en": "thing - the organ of thought"
+},
+"branch": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "树枝",
+"en": "thing - a part of a tree"
+},
+"bride": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "新娘",
+"en": "thing - a woman on her wedding day"
+},
+"broom": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "扫帚",
+"en": "thing - a cleaning tool"
+},
+"brush": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "刷子",
+"en": "thing - a tool for cleaning"
+},
+"bush": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "灌木",
+"en": "thing - a shrub"
+},
+"bus": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "公共汽车",
+"en": "thing - a large motor vehicle"
+},
+"cage": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "笼子",
+"en": "thing - a structure for confining animals"
+},
+"camel": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "骆驼",
+"en": "thing - a large desert animal"
+},
+"candle": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "蜡烛",
+"en": "thing - a stick of wax with a wick"
+},
+"cannon": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "大炮",
+"en": "thing - a large heavy gun"
+},
+"car": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "汽车",
+"en": "thing - a motor vehicle"
+},
+"card": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "卡片",
+"en": "thing - a piece of stiff paper"
+},
+"cat": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "猫",
+"en": "thing - a small domestic animal"
+},
+"chain": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "链条",
+"en": "thing - a series of connected rings"
+},
+"chair": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "椅子",
+"en": "thing - a seat with a back"
+},
+"chamber": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "房间",
+"en": "thing - a room"
+},
+"chicken": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鸡",
+"en": "thing - a domestic fowl"
+},
+"child": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "孩子",
+"en": "thing - a young human being"
+},
+"church": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "教堂",
+"en": "thing - a building for worship"
+},
+"cigar": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "雪茄",
+"en": "thing - rolled tobacco"
+},
+"city": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "城市",
+"en": "thing - a large town"
+},
+"class": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "班级",
+"en": "thing - a group of students"
+},
+"clock": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "时钟",
+"en": "thing - a device for measuring time"
+},
+"coat": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "外套",
+"en": "thing - outer clothing"
+},
+"coin": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "硬币",
+"en": "thing - a piece of metal money"
+},
+"comb": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "梳子",
+"en": "thing - a grooming tool"
+},
+"comet": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "彗星",
+"en": "thing - an icy celestial body"
+},
+"cord": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "绳",
+"en": "thing - a thin strong string"
+},
+"corner": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "角落",
+"en": "thing - the point where two lines meet"
+},
+"cow": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "牛",
+"en": "thing - a large domestic animal"
+},
+"cradle": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "摇篮",
+"en": "thing - a bed for a baby"
+},
+"cup": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "杯子",
+"en": "thing - a small bowl for drinking"
+},
+"cushion": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "垫子",
+"en": "thing - a soft bag of fabric"
+},
+"deer": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鹿",
+"en": "thing - a grazing animal"
+},
+"desk": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "书桌",
+"en": "thing - a table for working"
+},
+"diamond": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "钻石",
+"en": "thing - a precious clear stone"
+},
+"dinosaur": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "恐龙",
+"en": "thing - a prehistoric reptile"
+},
+"dog": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "狗",
+"en": "thing - a domestic animal"
+},
+"dollar": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "美元",
+"en": "thing - a unit of currency"
+},
+"drum": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鼓",
+"en": "thing - a musical instrument"
+},
+"duck": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鸭子",
+"en": "thing - a water bird"
+},
+"ear": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "耳朵",
+"en": "thing - the organ of hearing"
+},
+"earthquake": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "地震",
+"en": "thing - shaking of the ground"
+},
+"egg": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鸡蛋",
+"en": "thing - an oval object laid by a bird"
+},
+"engine": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "引擎",
+"en": "thing - a machine producing power"
+},
+"ink": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "墨水",
+"en": "thing - a colored fluid for writing"
+},
+"key": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "钥匙",
+"en": "thing - a device for locking"
+},
+"knee": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "膝盖",
+"en": "thing - the joint in the middle of the leg"
+},
+"knife": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "刀",
+"en": "thing - a tool with a blade"
+},
+"lamp": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "灯",
+"en": "thing - a device giving light"
+},
+"leaf": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "叶子",
+"en": "thing - a green flat part of a plant"
+},
+"leg": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "腿",
+"en": "thing - the lower limb"
+},
+"lion": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "狮子",
+"en": "thing - a large wild cat"
+},
+"lock": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "锁",
+"en": "thing - a device for securing a door"
+},
+"match": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "火柴",
+"en": "thing - a small stick for lighting fire"
+},
+"mouse": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "老鼠",
+"en": "thing - a small rodent"
+},
+"nose": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鼻子",
+"en": "thing - the organ of smell"
+},
+"pen": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "钢笔",
+"en": "thing - a tool for writing"
+},
+"pencil": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "铅笔",
+"en": "thing - a writing instrument"
+},
+"phone": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "电话",
+"en": "thing - a device for communication"
+},
+"pig": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "猪",
+"en": "thing - a domestic animal"
+},
+"pillow": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "枕头",
+"en": "thing - a cushion for the head"
+},
+"pipe": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "管道",
+"en": "thing - a tube for conveying fluid"
+},
+"plane": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "飞机",
+"en": "thing - a flat surface"
+},
+"plate": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "盘子",
+"en": "thing - a flat dish"
+},
+"pot": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "锅",
+"en": "thing - a container for cooking"
+},
+"piano": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "钢琴",
+"en": "thing - a musical instrument"
+},
+"queen": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "女王",
+"en": "thing - a female monarch"
+},
+"rat": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "老鼠",
+"en": "thing - a large rodent"
+},
+"ring": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "戒指",
+"en": "thing - a circular band"
+},
+"robot": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "机器人",
+"en": "thing - a machine capable of work"
+},
+"rock": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "岩石",
+"en": "thing - a solid mineral mass"
+},
+"sail": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "帆",
+"en": "thing - a sheet of cloth catching wind"
+},
+"school": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "学校",
+"en": "thing - a place of learning"
+},
+"scissors": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "剪刀",
+"en": "thing - a cutting tool"
+},
+"screw": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "螺丝",
+"en": "thing - a fastening device"
+},
+"seed": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "种子",
+"en": "thing - a plant embryo"
+},
+"sheep": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "羊",
+"en": "thing - a woolly animal"
+},
+"shelf": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "架子",
+"en": "thing - a flat horizontal surface"
+},
+"ship": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "船",
+"en": "thing - a large vessel for water"
+},
+"shirt": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "衬衫",
+"en": "thing - a garment for the upper body"
+},
+"shoe": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鞋",
+"en": "thing - a cover for the foot"
+},
+"skin": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "皮肤",
+"en": "thing - the outer covering of the body"
+},
+"skirt": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "裙子",
+"en": "thing - a garment hanging from the waist"
+},
+"snake": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "蛇",
+"en": "thing - a long legless reptile"
+},
+"sock": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "袜子",
+"en": "thing - a garment for the foot"
+},
+"spade": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "铲子",
+"en": "thing - a digging tool"
+},
+"sponge": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "海绵",
+"en": "thing - a porous material"
+},
+"spoon": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "勺子",
+"en": "thing - a eating utensil"
+},
+"spring": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "弹簧",
+"en": "thing - a coil of metal"
+},
+"square": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "正方形",
+"en": "thing - a four-sided equal figure"
+},
+"stamp": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "邮票",
+"en": "thing - a small piece of paper"
+},
+"star": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "星星",
+"en": "thing - a luminous celestial body"
+},
+"station": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "车站",
+"en": "thing - a stopping place"
+},
+"stem": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "茎",
+"en": "thing - the main part of a plant"
+},
+"stick": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "棍子",
+"en": "thing - a long thin piece of wood"
+},
+"stocking": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "长袜",
+"en": "thing - a garment for the foot and leg"
+},
+"stomach": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "胃",
+"en": "thing - the organ of digestion"
+},
+"store": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "商店",
+"en": "thing - a place of business"
+},
+"street": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "街道",
+"en": "thing - a public road"
+},
+"sun": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "太阳",
+"en": "thing - the star around which the earth orbits"
+},
+"table": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "桌子",
+"en": "thing - a piece of furniture"
+},
+"tail": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "尾巴",
+"en": "thing - the rear part of an animal"
+},
+"thread": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "线",
+"en": "thing - a thin strand of fiber"
+},
+"throat": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "喉咙",
+"en": "thing - the front part of the neck"
+},
+"thumb": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "拇指",
+"en": "thing - the short thick finger"
+},
+"ticket": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "票",
+"en": "thing - a piece of paper for admission"
+},
+"toe": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "脚趾",
+"en": "thing - a digit of the foot"
+},
+"tongue": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "舌头",
+"en": "thing - the organ of taste"
+},
+"tooth": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "牙齿",
+"en": "thing - a hard bony structure"
+},
+"town": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "城镇",
+"en": "thing - a settlement larger than a village"
+},
+"train": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "火车",
+"en": "thing - a series of connected vehicles"
+},
+"tray": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "托盘",
+"en": "thing - a flat plate for carrying things"
+},
+"tree": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "树",
+"en": "thing - a woody perennial plant"
+},
+"trousers": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "裤子",
+"en": "thing - a garment covering the legs"
+},
+"umbrella": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "雨伞",
+"en": "thing - a portable canopy"
+},
+"wall": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "墙",
+"en": "thing - a vertical structure"
+},
+"watch": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "手表",
+"en": "thing - a timepiece"
+},
+"wheel": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "轮子",
+"en": "thing - a circular rotating structure"
+},
+"whip": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "鞭子",
+"en": "thing - a flexible strip for striking"
+},
+"whistle": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "哨子",
+"en": "thing - a device producing a high pitch sound"
+},
+"window": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "窗户",
+"en": "thing - an opening in a wall"
+},
+"wing": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "翅膀",
+"en": "thing - a limb for flying"
+},
+"wire": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "电线",
+"en": "thing - a thin flexible metal thread"
+},
+"worm": {
+"pos": "名词",
+"pos_en": "thing",
+"zh": "蠕虫",
+"en": "thing - a long thin soft-bodied animal"
+},
+"able": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "能够的",
+"en": "quality - having the power or skill"
+},
+"acid": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "酸的",
+"en": "quality - sour in taste"
+},
+"angry": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "生气的",
+"en": "quality - feeling strong annoyance"
+},
+"automatic": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "自动的",
+"en": "quality - operating by itself"
+},
+"beautiful": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "美丽的",
+"en": "quality - pleasing to the senses"
+},
+"black": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "黑色的",
+"en": "quality - of the darkest color"
+},
+"boiling": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "沸腾的",
+"en": "quality - at the temperature of vaporization"
+},
+"bright": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "明亮的",
+"en": "quality - giving out or reflecting light"
+},
+"broken": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "破碎的",
+"en": "quality - damaged and not functional"
+},
+"brown": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "棕色的",
+"en": "quality - a color between red and black"
+},
+"cheap": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "便宜的",
+"en": "quality - low in price"
+},
+"chemical": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "化学的",
+"en": "quality - relating to chemistry"
+},
+"chief": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "主要的",
+"en": "quality - most important"
+},
+"clean": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "干净的",
+"en": "quality - free from dirt"
+},
+"clear": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "清晰的",
+"en": "quality - easy to perceive"
+},
+"common": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "常见的",
+"en": "quality - occurring often"
+},
+"complex": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "复杂的",
+"en": "quality - consisting of many parts"
+},
+"conscious": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "有意识的",
+"en": "quality - aware of one's surroundings"
+},
+"cut": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "切开的",
+"en": "quality - having a hole made by cutting"
+},
+"deep": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "深的",
+"en": "quality - extending far inward"
+},
+"dependent": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "依赖的",
+"en": "quality - relying on another"
+},
+"early": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "早的",
+"en": "quality - happening before the expected time"
+},
+"elastic": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "有弹性的",
+"en": "quality - able to return to shape"
+},
+"electric": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "电的",
+"en": "quality - relating to electricity"
+},
+"equal": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "相等的",
+"en": "quality - of the same quantity"
+},
+"fat": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "胖的",
+"en": "quality - having much flesh"
+},
+"fertile": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "肥沃的",
+"en": "quality - able to produce abundant vegetation"
+},
+"first": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "第一的",
+"en": "quality - coming before all others"
+},
+"fixed": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "固定的",
+"en": "quality - firmly positioned"
+},
+"flat": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "平的",
+"en": "quality - having a smooth level surface"
+},
+"free": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "自由的",
+"en": "quality - not under control of another"
+},
+"frequent": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "频繁的",
+"en": "quality - occurring often"
+},
+"full": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "满的",
+"en": "quality - containing as much as possible"
+},
+"general": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "一般的",
+"en": "quality - affecting most cases"
+},
+"good": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "好的",
+"en": "quality - of high quality"
+},
+"great": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "伟大的",
+"en": "quality - of an extent or intensity above average"
+},
+"grey": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "灰色的",
+"en": "quality - a color between black and white"
+},
+"hanging": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "悬挂的",
+"en": "quality - suspended from above"
+},
+"happy": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "快乐的",
+"en": "quality - feeling or showing pleasure"
+},
+"hard": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "硬的",
+"en": "quality - firm and solid"
+},
+"healthy": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "健康的",
+"en": "quality - in good condition"
+},
+"high": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "高的",
+"en": "quality - extending far upward"
+},
+"hollow": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "空心的",
+"en": "quality - having a gap inside"
+},
+"important": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "重要的",
+"en": "quality - of great significance"
+},
+"kind": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "善良的",
+"en": "quality - having a friendly nature"
+},
+"like": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "像…的",
+"en": "quality - similar to"
+},
+"living": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "活的",
+"en": "quality - alive"
+},
+"long": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "长的",
+"en": "quality - measuring great distance"
+},
+"male": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "男性的",
+"en": "quality - relating to men"
+},
+"married": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "已婚的",
+"en": "quality - joined in marriage"
+},
+"material": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "物质的",
+"en": "quality - relating to physical matter"
+},
+"medical": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "医学的",
+"en": "quality - relating to the science of medicine"
+},
+"military": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "军事的",
+"en": "quality - relating to armed forces"
+},
+"natural": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "自然的",
+"en": "quality - existing in nature"
+},
+"necessary": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "必要的",
+"en": "quality - required to be done"
+},
+"new": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "新的",
+"en": "quality - not existing before"
+},
+"normal": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "正常的",
+"en": "quality - conforming to a standard"
+},
+"open": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "开着的",
+"en": "quality - not closed"
+},
+"parallel": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "平行的",
+"en": "quality - having the same distance throughout"
+},
+"past": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "过去的",
+"en": "quality - no longer existing"
+},
+"physical": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "身体的",
+"en": "quality - relating to the body"
+},
+"political": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "政治的",
+"en": "quality - relating to government"
+},
+"poor": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "贫穷的",
+"en": "quality - lacking money"
+},
+"possible": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "可能的",
+"en": "quality - able to be done"
+},
+"present": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "现在的",
+"en": "quality - occurring now"
+},
+"private": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "私人的",
+"en": "quality - belonging to a specific person"
+},
+"probable": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "很可能的",
+"en": "quality - likely to happen"
+},
+"quick": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "快的",
+"en": "quality - moving fast"
+},
+"quiet": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "安静的",
+"en": "quality - making little noise"
+},
+"ready": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "准备好的",
+"en": "quality - fully prepared"
+},
+"red": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "红色的",
+"en": "quality - the color of blood"
+},
+"regular": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "规则的",
+"en": "quality - according to a pattern"
+},
+"responsible": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "负责的",
+"en": "quality - accountable"
+},
+"right": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "正确的",
+"en": "quality - correct"
+},
+"round": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "圆的",
+"en": "quality - shaped like a circle"
+},
+"same": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "相同的",
+"en": "quality - identical"
+},
+"second": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "第二的",
+"en": "quality - coming after the first"
+},
+"separate": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "分开的",
+"en": "quality - not joined"
+},
+"serious": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "严肃的",
+"en": "quality - important, not playful"
+},
+"sharp": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "锋利的",
+"en": "quality - having a fine edge"
+},
+"smooth": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "光滑的",
+"en": "quality - having an even surface"
+},
+"sticky": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "黏的",
+"en": "quality - adhering to surfaces"
+},
+"stiff": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "僵硬的",
+"en": "quality - not bending easily"
+},
+"straight": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "直的",
+"en": "quality - not curved"
+},
+"strong": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "强壮的",
+"en": "quality - having great power"
+},
+"sudden": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "突然的",
+"en": "quality - happening quickly"
+},
+"sweet": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "甜的",
+"en": "quality - having a pleasant taste"
+},
+"tall": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "高的",
+"en": "quality - measuring much distance upward"
+},
+"thick": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "厚的",
+"en": "quality - measuring much distance from one side to the other"
+},
+"tight": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "紧的",
+"en": "quality - fixed firmly in place"
+},
+"tired": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "疲倦的",
+"en": "quality - in need of sleep"
+},
+"true": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "真的",
+"en": "quality - in accordance with fact"
+},
+"violent": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "暴力的",
+"en": "quality - having great force"
+},
+"waiting": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "等待的",
+"en": "quality - staying until expected"
+},
+"warm": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "温暖的",
+"en": "quality - having moderate heat"
+},
+"wet": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "湿的",
+"en": "quality - covered with water"
+},
+"wide": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "宽的",
+"en": "quality - measuring much distance from side to side"
+},
+"wise": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "明智的",
+"en": "quality - having experience and good judgment"
+},
+"yellow": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "黄色的",
+"en": "quality - the color of lemons"
+},
+"young": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "年轻的",
+"en": "quality - having lived for a short time"
+},
+"awake": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "醒着的",
+"en": "quality - not sleeping"
+},
+"bad": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "坏的",
+"en": "quality - not good"
+},
+"bent": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "弯曲的",
+"en": "quality - curved out of shape"
+},
+"bitter": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "苦的",
+"en": "quality - unpleasant taste"
+},
+"blue": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "蓝色的",
+"en": "quality - the color of the sky"
+},
+"certain": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "确定的",
+"en": "quality - sure"
+},
+"cold": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "冷的",
+"en": "quality - having low temperature"
+},
+"complete": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "完整的",
+"en": "quality - having all parts"
+},
+"cruel": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "残忍的",
+"en": "quality - causing pain"
+},
+"dark": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "暗的",
+"en": "quality - not bright"
+},
+"dead": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "死的",
+"en": "quality - no longer living"
+},
+"dear": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "亲爱的",
+"en": "quality - loved"
+},
+"delicate": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "精致的",
+"en": "quality - easily broken"
+},
+"different": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "不同的",
+"en": "quality - not the same"
+},
+"dirty": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "脏的",
+"en": "quality - covered with dirt"
+},
+"dry": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "干的",
+"en": "quality - without moisture"
+},
+"false": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "假的",
+"en": "quality - not true"
+},
+"feeble": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "虚弱的",
+"en": "quality - weak"
+},
+"female": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "女性的",
+"en": "quality - relating to women"
+},
+"foolish": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "愚蠢的",
+"en": "quality - lacking good sense"
+},
+"future": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "未来的",
+"en": "quality - not yet here"
+},
+"green": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "绿色的",
+"en": "quality - the color of grass"
+},
+"ill": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "生病的",
+"en": "quality - not healthy"
+},
+"last": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "最后的",
+"en": "quality - coming after all others"
+},
+"late": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "晚的",
+"en": "quality - not early"
+},
+"left": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "左边的",
+"en": "quality - on the west side"
+},
+"loose": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "松的",
+"en": "quality - not tight"
+},
+"loud": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "大声的",
+"en": "quality - producing much sound"
+},
+"low": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "低的",
+"en": "quality - not high"
+},
+"mixed": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "混合的",
+"en": "quality - combined"
+},
+"narrow": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "窄的",
+"en": "quality - not wide"
+},
+"old": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "老的",
+"en": "quality - having lived for many years"
+},
+"opposite": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "相反的",
+"en": "quality - directly facing"
+},
+"rough": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "粗糙的",
+"en": "quality - not smooth"
+},
+"sad": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "悲伤的",
+"en": "quality - unhappy"
+},
+"safe": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "安全的",
+"en": "quality - protected from harm"
+},
+"secret": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "秘密的",
+"en": "quality - not known to others"
+},
+"short": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "短的",
+"en": "quality - not long"
+},
+"shut": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "关闭的",
+"en": "quality - closed"
+},
+"simple": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "简单的",
+"en": "quality - easy to understand"
+},
+"slow": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "慢的",
+"en": "quality - not fast"
+},
+"small": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "小的",
+"en": "quality - not large"
+},
+"soft": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "软的",
+"en": "quality - easy to shape"
+},
+"solid": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "固体的",
+"en": "quality - firm and stable"
+},
+"special": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "特殊的",
+"en": "quality - not general"
+},
+"strange": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "奇怪的",
+"en": "quality - unusual"
+},
+"thin": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "薄的",
+"en": "quality - not thick"
+},
+"white": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "白色的",
+"en": "quality - the color of snow"
+},
+"wrong": {
+"pos": "形容词",
+"pos_en": "quality",
+"zh": "错误的",
+"en": "quality - not correct"
+}
+}

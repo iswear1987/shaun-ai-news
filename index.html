@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Word Strike — 空战打字</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Noto+Sans+SC:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <div id="app">
+    <header id="hud">
+      <div class="hud-block">
+        <span class="hud-label">SCORE</span>
+        <span id="score" class="hud-value">0</span>
+      </div>
+      <div class="hud-block">
+        <span class="hud-label">COMBO</span>
+        <span id="combo" class="hud-value">0</span>
+        <span id="multiplier" class="multiplier">×1</span>
+      </div>
+      <div class="hud-block">
+        <span class="hud-label">TO BOSS</span>
+        <span id="wave-timer" class="hud-value">30</span>
+      </div>
+      <div class="hud-block">
+        <span class="hud-label">KILLS</span>
+        <span id="words-cleared" class="hud-value">0</span>
+      </div>
+      <div class="hud-block">
+        <span class="hud-label">BOSS</span>
+        <span id="bosses" class="hud-value">0</span>
+      </div>
+      <div class="hud-block">
+        <span class="hud-label">SKY</span>
+        <span id="sky-label" class="hud-value sky">白天</span>
+      </div>
+    </header>
+
+    <!-- Labels follow 3D planes (positioned by JS) -->
+    <div id="near-label" class="plane-label near hidden">
+      <div id="near-word" class="plane-word"></div>
+      <div class="plane-meta">
+        <span id="near-pos" class="word-pos"></span>
+        <span id="near-zh" class="word-zh"></span>
+      </div>
+    </div>
+    <div id="far-label" class="plane-label far hidden">
+      <div id="far-word" class="plane-word far-word"></div>
+    </div>
+    <div id="boss-label" class="plane-label boss hidden">
+      <div class="boss-tag">BOSS QUOTE</div>
+      <div id="boss-quote" class="boss-quote"></div>
+      <div id="boss-author" class="boss-author"></div>
+    </div>
+
+    <div id="combo-layer"></div>
+    <canvas id="game-canvas"></canvas>
+
+    <div id="warning" class="warning hidden">
+      <div class="warning-inner">⚠ WARNING ⚠</div>
+      <div class="warning-sub">BOSS INCOMING</div>
+    </div>
+
+    <div id="overlay" class="overlay">
+      <div class="panel">
+        <h1 class="title">WORD STRIKE</h1>
+        <p class="subtitle">卡通空战打字 — 击落敌机 · 挑战名言 BOSS</p>
+        <ul class="rules">
+          <li>你的战机持续向前飞行，输入<strong>近处敌机</strong>下方的单词击落它</li>
+          <li>近处：英文 + 词性 + 中文 · 远处：仅英文（较小）</li>
+          <li>击落后远处敌机立刻前移；可连续打字，无需等待</li>
+          <li>输错字母：敌机回击激光，扣分并中断连击</li>
+          <li>消灭 <strong>30 架</strong>普通敌机后出现 BOSS（名言挑战）</li>
+          <li>击破 BOSS 后天空 <strong>白天 → 黄昏 → 黑夜</strong> 循环，再战 30 架</li>
+        </ul>
+        <button id="start-btn" class="btn primary">起飞 TAKE OFF</button>
+      </div>
+    </div>
+
+    <div id="toast" class="toast hidden"></div>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
